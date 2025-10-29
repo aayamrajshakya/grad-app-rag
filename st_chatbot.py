@@ -1,48 +1,63 @@
-# Reference: https://github.com/langchain-ai/streamlit-agent/blob/main/streamlit_agent/search_and_chat.py
-
 import streamlit as st
-from langchain_community.chat_message_histories import StreamlitChatMessageHistory
+from component_class import cls_EmbeddingModel, cls_FAISS, cls_GenLLM
+
+
+# cached for performance
+@st.cache_resource
+def load_components():
+    _embedding = cls_EmbeddingModel(embedding_model="all-mpnet-base-v2", device="cpu")
+    embedding = _embedding.initialize_model()
+
+    _retriever = cls_FAISS(db_path="faiss_index", embedding_model=embedding)
+    retriever = _retriever.init_retriever(top_k=3)
+
+    _rag = cls_GenLLM(gen_model="Qwen/Qwen2.5-7B-Instruct", retriever=retriever)
+    return _rag
+
+
+rag = load_components()
 
 
 def chatbot_ui():
     st.set_page_config(page_title="Graduation Application RAG", page_icon="📚")
     st.subheader("📚 Graduation Application RAG")
-    st.write(
-        "No paid AI tool was used for any part of this RAG project. Just good ol' open-source stuff :)"
-    )
+    st.write("Part of the CSE 4633 AI project")
+    st.markdown("*No paid tool/model was used for any part of this project. Just good ol' open-source stuff :)*")
+    st.write("---")
 
-    text = "*Part of the CSE 4633 Artificial Intelligence project*"
-    st.markdown(text)
-    st.write("-----")
+    # maintain chat history
+    if "chat_history" not in st.session_state:
+        st.session_state.chat_history = [{
+            "role": "ai",
+            "content": "Hi! How can I help you today?"
+        }]
 
-    msgs = StreamlitChatMessageHistory()
+    # display previous messages
+    for msg in st.session_state.chat_history:
+        with st.chat_message("assistant" if msg["role"] == "ai" else "user"):
+            st.write(msg["content"])
 
-    if len(msgs.messages) == 0:
-        msgs.clear()
-        msgs.add_ai_message("How can I help you?")
-        st.session_state.steps = {}
+    user_input = st.chat_input(
+        "What is the application deadline for Fall 2026?")
+    if user_input:
+        st.session_state.chat_history.append({
+            "role": "user",
+            "content": user_input
+        })
+        with st.chat_message("user"):
+            st.write(user_input)
 
-    avatars = {"human": "😉", "ai": "🧠"}
-    for idx, msg in enumerate(msgs.messages):
-        with st.chat_message(avatars[msg.type]):
-            # Render intermediate steps if any were saved
-            for step in st.session_state.steps.get(str(idx), []):
-                if step[0].tool == "_Exception":
-                    continue
-                with st.status(f"**{step[0].tool}**: {step[0].tool_input}",
-                               state="complete"):
-                    st.write(step[0].log)
-                    st.write(step[1])
-            st.write(msg.content)
+        # call RAG response and display
+        with st.chat_message("assistant"):
+            with st.spinner("Thinking..."):
+                response = rag.response(user_input)
+                st.write(response)
 
-    if prompt := st.chat_input(
-            placeholder="What is the application deadline for Fall 2026?"):
-        st.chat_message("user").write(prompt)
-
-    university_choice = st.sidebar.selectbox(
-        "Which university would you like to inquire about?",
-        ("Northeastern University", "UMass Amherst", "Mississippi State University"),
-    )
+        # save AI response
+        st.session_state.chat_history.append({
+            "role": "ai",
+            "content": response
+        })
 
 
 if __name__ == "__main__":

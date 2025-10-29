@@ -66,7 +66,7 @@ class cls_GenLLM:
     def format_docs(self, docs):
         return "\n\n".join(doc.page_content for doc in docs)
 
-    def qa_chain(self):
+    def response(self, query):
         prompt = ChatPromptTemplate.from_template(self.PROMPT_TEMPLATE)
         qa_chain = ({
             "context": self.retriever | self.format_docs,
@@ -76,4 +76,5 @@ class cls_GenLLM:
                     | self.initialize_model()
                     | StrOutputParser())
 
-        return qa_chain
+        return qa_chain.invoke(query)
+    
