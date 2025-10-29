@@ -36,6 +36,7 @@ class cls_FAISS:
 
     def init_retriever(self, top_k=1):
         db = self.load_vector_store()
+        # Reference: https://shorturl.at/CHHrY (LangChain docs)
         retriever = db.as_retriever(search_kwargs={'k': top_k})
         return retriever
 
