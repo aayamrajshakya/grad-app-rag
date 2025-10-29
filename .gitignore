@@ -1,3 +1,4 @@
 rag_env/
 __pycache__
 test*
+raw_data/

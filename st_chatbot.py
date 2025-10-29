@@ -1,36 +1,52 @@
 import streamlit as st
-from component_class import cls_EmbeddingModel, cls_FAISS, cls_GenLLM
+from components import cls_EmbeddingModel, cls_FAISS, cls_GenLLM
 
 
 # cached for performance
 @st.cache_resource
-def load_components():
+def load_components(UNIVERSITY):
     _embedding = cls_EmbeddingModel(embedding_model="all-mpnet-base-v2", device="cpu")
     embedding = _embedding.initialize_model()
 
-    _retriever = cls_FAISS(db_path="faiss_index", embedding_model=embedding)
+    _retriever = cls_FAISS(db_path=f"faiss_indices/{UNIVERSITY}", embedding_model=embedding)
     retriever = _retriever.init_retriever(top_k=3)
 
     _rag = cls_GenLLM(gen_model="Qwen/Qwen2.5-7B-Instruct", retriever=retriever)
     return _rag
 
 
-rag = load_components()
-
-
 def chatbot_ui():
-    st.set_page_config(page_title="Graduation Application RAG", page_icon="📚")
-    st.subheader("📚 Graduation Application RAG")
-    st.write("Part of the CSE 4633 AI project")
+    st.set_page_config(page_title="Graduate Application RAG",
+                       page_icon="📚",
+                       initial_sidebar_state="expanded")
+    st.subheader("Graduate Application RAG (CSE 4633)")
     st.markdown("*No paid tool/model was used for any part of this project. Just good ol' open-source stuff :)*")
-    st.write("---")
 
-    # maintain chat history
-    if "chat_history" not in st.session_state:
+    # Reference: https://discuss.streamlit.io/t/label-and-values-in-in-selectbox/1436/6
+    UNI_DICT = {
+        "msstate": "Mississippi State University",
+        "neu": "Northeastern University",
+        "amherst": "UMass Amherst",
+    }
+
+    def format_func(option):
+        return UNI_DICT[option]
+
+    UNIVERSITY = st.sidebar.selectbox(
+        label="Which university would you like to inquire about?",
+        options=list(UNI_DICT.keys()),
+        format_func=format_func)
+
+    if "prev_uni" not in st.session_state or st.session_state.prev_uni != UNIVERSITY:
         st.session_state.chat_history = [{
             "role": "ai",
-            "content": "Hi! How can I help you today?"
+            "content": f"Hello! What do you wanna know today?"
         }]
+        st.session_state.prev_uni = UNIVERSITY
+
+    rag = load_components(UNIVERSITY)
+
+    st.write("Current selection:", UNI_DICT[UNIVERSITY])
 
     # display previous messages
     for msg in st.session_state.chat_history:
