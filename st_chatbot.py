@@ -4,7 +4,7 @@ import streamlit as st
 from langchain_community.chat_message_histories import StreamlitChatMessageHistory
 
 
-def app():
+def chatbot_ui():
     st.set_page_config(page_title="Graduation Application RAG", page_icon="📚")
     st.subheader("📚 Graduation Application RAG")
     st.write(
@@ -29,16 +29,14 @@ def app():
             for step in st.session_state.steps.get(str(idx), []):
                 if step[0].tool == "_Exception":
                     continue
-                with st.status(
-                    f"**{step[0].tool}**: {step[0].tool_input}", state="complete"
-                ):
+                with st.status(f"**{step[0].tool}**: {step[0].tool_input}",
+                               state="complete"):
                     st.write(step[0].log)
                     st.write(step[1])
             st.write(msg.content)
 
     if prompt := st.chat_input(
-        placeholder="What is the application deadline for Fall 2026?"
-    ):
+            placeholder="What is the application deadline for Fall 2026?"):
         st.chat_message("user").write(prompt)
 
     university_choice = st.sidebar.selectbox(
@@ -48,4 +46,4 @@ def app():
 
 
 if __name__ == "__main__":
-    app()
+    chatbot_ui()
