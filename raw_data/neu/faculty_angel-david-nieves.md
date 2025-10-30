@@ -1,0 +1,48 @@
+[Skip to content](https://cssh.northeastern.edu/faculty/angel-david-nieves/#content)
+Close [ Navigating a New Political Landscape: View real-time updates about the impact of and Northeastern’s response to recent political changes. ](https://news.northeastern.edu/new-political-landscape-faq/ "View the FAQs")
+[Apply](https://cssh.northeastern.edu/apply/)
+[ People](https://cssh.northeastern.edu/cssh-people)
+#  In MemoriamÁngel David Nieves
+Dean’s Professor of Public and Digital Humanities and Professor of Africana Studies and History 
+Ángel David Nieves was a Professor of Africana Studies, History, and Digital Humanities in the College of Social Sciences and Humanities (CSSH) at Northeastern University and is an Affiliate Professor in the Department of English and in the School of Public Policy and Urban Affairs. He was Director of the Graduate Program in Public History and Director of Public Humanities in CSSH. Nieves authored _[An Architecture of Education: African American Women Design the New South](https://www.cambridge.org/core/journals/history-of-education-quarterly/article/abs/angel-david-nieves-an-architecture-of-education-african-american-women-design-the-new-south-rochester-ny-university-of-rochester-press-2018-256-pp/DC79A344D6C8D9301AF3B784C77606F4)_ (2018/2020) and co-editor of _[‘We Shall Independent Be:’ African American Place Making and the Struggle to Claim Space in the U.S](https://academic.oup.com/jah/article-abstract/96/2/540/727868?redirectedFrom=fulltext)_._[People, Practice, Power: Digital Humanities Outside the Center](https://www.upress.umn.edu/book-division/books/people-practice-power)_ (December 2021). His articles have appeared in _[American Quarterly](https://muse.jhu.edu/issue/39105)_ ; _[Resilience: A Journal of the Environmental Humanities](https://www.jstor.org/stable/10.5250/resilience.1.2.009#metadata_info_tab_contents)_ ; _[JITP: The Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/table-of-contents-issue-seventeen/)_ ; _[Places: A Journal of Design for the Public Realm](https://www.academia.edu/7937578/Angel_David_Nieves_Re_Valuing_Places_The_Knowing_Unknowing_Places_Journal_A_Forum_of_Design_for_the_Public_Realm_20_no_1_2008_21_25?auto=download)_ ; _[The Journal of Planning History](https://journals.sagepub.com/doi/10.1177/153851320200100303)_ ;
+Nieves served on the Boards of the Society of American City and Regional Planning History (SACRPH) and the Roy Rosenzweig Center for History and New Media at George Mason University. He has previously served on the Executive Council of the Association for Computers and the Humanities (ACH), the Institute for Liberal Arts Digital Scholarship (ILiADS), the Board of the New York State Council for the Humanities, and on many other boards across the U.S. in various fields and professional organizations.
+Dr. Nieves’s scholarship focused on the intersections of race, gender, sexuality, social justice, and technology in the U.S. and South Africa, and was at the vanguard of digital history publications and [experimental online publishing platforms](https://www.youtube.com/watch?v=xlm44SHWGgo). Nieves has received support from the National Endowment for the Humanities (NEH), the Andrew W. Mellon Foundation, [the National Historical Publications & Records Commission (NHPRC)](https://news.ucsc.edu/2018/03/sullivan-mellon-grant.html), and [Yale University](https://wgss.yale.edu/news/angel-nieves-visiting-assoc-prof-wgss-digital-humanities-awarded-mellon-digital-publication). At Hamilton College he raised over $2.7 million dollars (w/Simons) in research support for interdisciplinary digital scholarship. He is currently working on a digital book project, _[Apartheid Heritage(s): A Spatial History of South Africa’s Black Townships](https://apartheidheritagesproject.org/)_ , that combines human rights violations testimony and [3D reconstruction technologies](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/d441edf8-4e56-4721-a3f4-0a9a1674c15f) of sites destroyed by the apartheid-era regime. He was Lead Co-PI (w/Poiger; along w/PIs Cohen and Baumgartner) on a $500K Planning Grant from the Mellon Foundation for a project entitled _[Reckonings: A Local History Platform for the Community-Archivist](https://mellon.org/grants/grants-database/grants/northeastern-university/2107-11114/)_. Reckoningsco-curation
+In June 2022 he co-directed the NEH funded Summer Institute [“Engaging Geography in the Humanities,”](https://cssh.northeastern.edu/geohum2022/) with Drs. Liza Weinstein (Sociology/Anthropology) and Serena Parekh (Philosophy).
+[View CV](https://cssh.northeastern.edu/wp-content/uploads/2020/07/Nieves_CV_060320_Current.pdf)
+Selected Publications
+  * [2021, Anne McGrail, Angel David Nieves, Siobhan Senier (editors), People, Practice, Power: Institutions and Infrastructures at the Interstices, Debates in the Digital Humanities Series, University of Minnesota Press – in press (expected Spring).](https://www.upress.umn.edu/book-division/books/people-practice-power)
+  * [2020, Amanda Licastro, Angel David Nieves, and Victoria Sbazo, “Introduction: The Potential of Extended Reality: Teaching and Learning in Virtual Spaces,” The Journal of Interactive Technology and Pedagogy 17 (May).](https://jitp.commons.gc.cuny.edu/2020/05/20/)
+  * [2020, Angel David Nieves, “Review: Immersive Scholar,” Reviews in DH 1, no. 3 (March).](https://reviewsindh.pubpub.org/pub/immersive-scholar)
+  * [2020, Janet Thomas Simons and Angel David Nieves, “Chapter 20: #DHSIYEARMODELS: Model for DH at liberal arts colleges and four-year institutions,” in Doing More Digital Humanities: Open Approaches to Creation, Growth, and Development, eds. Constance Crompton, Richard J. Lane, and Ray Siemens (New York: Routledge; ISBN: 978-0367192709), pgs. 301-320.](https://www.amazon.com/Doing-More-Digital-Humanities-Development/dp/0367192705)
+  * [2019, Angel David Nieves, “Planning for Apartheid and Preserving the Garden City Townships of Johannesburg, South Africa,” Iconic Planned Communities and the Challenge of Change, eds. Mary Corbin Sies, Isabelle Gournay, & Robert Freestone (Philadelphia: The University of Pennsylvania Press: ISBN: 978-0812251142), pgs. 277-296.](https://www.amazon.com/Planned-Communities-Challenge-Twenty-First-Century/dp/0812251148)
+  * [2018, Angel David Nieves, An Architecture of Education: African American Women Design the New South, Gender and Race in American History Series, University of Rochester Press (Hardback ISBN: 978-1-58046-909-8), 193 pgs.](https://www.amazon.com/Architecture-Education-African-American-History/dp/1580469094)
+  * [2018, Angel David Nieves, “DH as ‘Disruptive Innovation’ for Restorative Social Justice: Virtual Heritage and 3D Reconstructions of South Africa’s Township Histories,” in Disrupting Digital Humanities, eds. Dorothy Kim and Jesse Stommel (New York: Punctum Books; ISBN: 978-1-947447-7-14), 11 pgs.](https://punctumbooks.com/titles/disrupting-the-digital-humanities/)
+  * [2018, Angel David Nieves, “Critical Engagements with Race, Memory, and the Built Environment: A Primer (Remediation, Data, and Memory),” in The Routledge Companion to Media Studies and Digital Humanities, ed. Jentery Sayers (New York: Routledge; ISBN: 978-1138844308), pgs. 391-402.](https://punctumbooks.com/titles/disrupting-the-digital-humanities/)
+  * [2017, Elaine Sullivan, Angel David Nieves, and Lisa Snyder, “Making the Model: Scholarship and Rhetoric in 3D Historical Reconstructions,” in Making Things and Drawing Boundaries: Experiments in the Digital Humanities, Debates in the Digital Humanities Series, ed. Jentery Sayers (University of Minnesota Press; ISBN: 978-1517902858), pgs. 301-316.](https://bookshop.org/books/making-things-and-drawing-boundaries-experiments-in-the-digital-humanities/9781517902841)
+  * [2014, Angel David Nieves & Marla Jaksch (on-line journal), Special Issue Guest Co-Editors, “Intersections: Heritage, Development, Digital Technologies, and Pedagogy in Africa and theAfrican Diaspora,” The Journal of Interactive Technology and Pedagogy 6](https://jitp.commons.gc.cuny.edu/table-of-contents-issue-6/)
+  * [2008, Angel David Nieves and Leslie M. Alexander (editors), “We ShalI Independent Be:” African American Place-Making and the Struggle to Claim Space in the U.S., University Press of Colorado (ISBN: 978-0-87081-906-3) – lead author](https://books.google.com/books/about/We_Shall_Independent_Be.html?id=A0x7AAAAMAAJ&source=kp_book_description)
+
+
+Community & Professional Leadership
+  * [Apartheid Heritage(s): A Spatial History of South Africa’s Townships](https://apartheidheritagesproject.org/about/)
+  * [Social Justice History Platform (SHGIS)](https://www.youtube.com/watch?v=xlm44SHWGgo)
+
+
+  * ## Education
+PhD, Cornell University  
+BArch, Syracuse University 
+  * ## Contact
+a.nieves@northeastern.edu 
+  * ## Address
+220E Renaissance Park  
+360 Huntington Avenue  
+Boston, MA 02115 
+
+
+## Related Stories
+  * ### [ Legacy of late professor honored by colleague through public history scholarship ](https://cssh.northeastern.edu/legacy-of-late-professor-honored-by-colleague-through-public-history-scholarship/)
+  * ### [ Crossing Digital Fronteras | Isabel Martinez and Ángel David Nieves ](https://cssh.northeastern.edu/crossing-digital-fronteras-isabel-martinez-and-angel-david-nieves/)
+  * ### [ In Memoriam: Ángel David Nieves ](https://cssh.northeastern.edu/angel-david-nieves-in-memoriam/)
+  * ### [ Boston becomes experiential learning lab in Northeastern Humanities Institute ](https://cssh.northeastern.edu/boston-becomes-experiential-learning-lab-in-northeastern-humanities-institute/)
+
+

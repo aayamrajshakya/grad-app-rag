@@ -1,0 +1,9 @@
+[Dietrich College of Humanities and Social Sciences](https://www.cmu.edu/dietrich/) › [Department of History](https://www.cmu.edu/dietrich/history/index.html) › [ Graduate ](https://www.cmu.edu/dietrich/history/graduate/index.html) › [ Graduate Students ](https://www.cmu.edu/dietrich/history/graduate/students/index.html) › [ Alumni ](https://www.cmu.edu/dietrich/history/graduate/students/almuni/index.html) › Bradley Sommer 
+#  Bradley Sommer, Ph.D. 2021 
+Contact
+  * Baker Hall 360
+  * bsommer(through)andrew.cmu.edu
+
+
+I am an Army Fellow at the U.S. Center of Military History at Fort McNair in Washington, D.C. My job primarily focuses on providing institutional history for the Army, conducting oral history interviews, and providing historical context for contemporary Army missions and objectives. While it's not my area of expertise, I like that I'm utilizing my skills as a historian to do historical work that gets applied in a practical way. I am also an Adjunct Professor at Miami University of Ohio where I teach U.S. History II and World History since 1500. It's nice to be able to teach again, even in an online and asynchronous capacity. I'm also working on the manuscript for my book, Tomorrow Never Came: Toledo Ohio and The Making of the Postindustrial Midwest[here](https://bradleyjsommer.com/). 
+Some advice I would give to current grad students is to start thinking about post-graduate opportunities now and to cast a wide net. You may not think about it, but there actually are quite a lot of places for History PhDs to apply. Think of places like the RAND Corporation, Urban Institute, ACLU, etc. Any place where they need smart, capable people with strong research, writing, and critical thinking skills. You might also consider the federal government. There are a lot of history jobs in the government, especially when you again consider the broad application of all the skills you're acquiring.

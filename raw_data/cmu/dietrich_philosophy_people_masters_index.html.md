@@ -1,0 +1,32 @@
+[Dietrich College of Humanities and Social Sciences](https://www.cmu.edu/dietrich/) › [Department of Philosophy](https://www.cmu.edu/dietrich/philosophy/index.html) › [ People ](https://www.cmu.edu/dietrich/philosophy/people/index.html) › Master's Students 
+# Masters Students
+8 bios displayed. 
+[ ](https://www.cmu.edu/dietrich/philosophy/people/masters/dorian-clay.html)
+## [ Dorian Clay ](https://www.cmu.edu/dietrich/philosophy/people/masters/dorian-clay.html)
+[Read full bio](https://www.cmu.edu/dietrich/philosophy/people/masters/dorian-clay.html)
+[ ](https://www.cmu.edu/dietrich/philosophy/people/masters/tianxiang-gao.html)
+## [ Tianxiang Gao ](https://www.cmu.edu/dietrich/philosophy/people/masters/tianxiang-gao.html)
+[Read full bio](https://www.cmu.edu/dietrich/philosophy/people/masters/tianxiang-gao.html)
+[ ](https://www.cmu.edu/dietrich/philosophy/people/masters/juliana-knot.html)
+## [ Juliana Knot ](https://www.cmu.edu/dietrich/philosophy/people/masters/juliana-knot.html)
+[Read full bio](https://www.cmu.edu/dietrich/philosophy/people/masters/juliana-knot.html)
+[ ](https://www.cmu.edu/dietrich/philosophy/people/masters/daniel-kopp.html)
+## [ Daniel Kopp ](https://www.cmu.edu/dietrich/philosophy/people/masters/daniel-kopp.html)
+[Read full bio](https://www.cmu.edu/dietrich/philosophy/people/masters/daniel-kopp.html)
+[ ](https://www.cmu.edu/dietrich/philosophy/people/masters/no%C3%A9-kuhn.html)
+## [ Noé Kuhn ](https://www.cmu.edu/dietrich/philosophy/people/masters/no%C3%A9-kuhn.html)
+[Read full bio](https://www.cmu.edu/dietrich/philosophy/people/masters/no%C3%A9-kuhn.html)
+[ ](https://www.cmu.edu/dietrich/philosophy/people/masters/yue-qi.html)
+## [ Yue Qi ](https://www.cmu.edu/dietrich/philosophy/people/masters/yue-qi.html)
+[Read full bio](https://www.cmu.edu/dietrich/philosophy/people/masters/yue-qi.html)
+[ ](https://www.cmu.edu/dietrich/philosophy/people/masters/rufus-rock.html)
+## [ Rufus Rock ](https://www.cmu.edu/dietrich/philosophy/people/masters/rufus-rock.html)
+[Read full bio](https://www.cmu.edu/dietrich/philosophy/people/masters/rufus-rock.html)
+[ ](https://www.cmu.edu/dietrich/philosophy/people/masters/shuge-rong.html)
+## [ Shuge Rong ](https://www.cmu.edu/dietrich/philosophy/people/masters/shuge-rong.html)
+[Read full bio](https://www.cmu.edu/dietrich/philosophy/people/masters/shuge-rong.html)
+  * [Contact](https://www.cmu.edu/dietrich/philosophy/contact.html)
+  * [Graduate Application](https://www.cmu.edu/dietrich/philosophy/graduate/graduate-application/index.html)
+  * [Support Philosophy @ CMU](https://www.cmu.edu/dietrich/philosophy/support-philosophy.html)
+
+

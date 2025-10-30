@@ -1,0 +1,18 @@
+[Skip to content](https://cssh.northeastern.edu/sccj/2019/04/10/criminal-justice-professors-secure-tier-1-seed-grant-for-fiscal-year-2020/#content)
+[Apply](https://cssh.northeastern.edu/sccj/apply/) [ Stories](https://cssh.northeastern.edu/sccj/stories)
+[All Stories](https://cssh.northeastern.edu/sccj/category/all-stories/) [Faculty Stories](https://cssh.northeastern.edu/sccj/category/faculty-stories/) [Research Stories](https://cssh.northeastern.edu/sccj/category/research-stories/)
+# Criminal Justice Professors Secure Tier 1 Seed Grant for 2020
+## People in this story
+  * [ Simon Singer ](https://cssh.northeastern.edu/faculty/simon-singer/)
+  * [ Carlos Cuevas ](https://cssh.northeastern.edu/faculty/carlos-cuevas/)
+  * [ Megan Denver ](https://cssh.northeastern.edu/faculty/megan-denver/)
+  * [ Daniel Medwed ](https://cssh.northeastern.edu/faculty/daniel-medwed/)
+
+
+Criminology and Criminal Justice Professors Simon Singer, Carlos Cuevas, Megan Denver, and Shytierra Gaston, as well as Psychology Professor David DeSteno and Law Professor Daniel Medwed, were awarded a TIER 1 grant for their proposal “Reentering Lives of Juvenile Lifers.”
+The [TIER 1 Seed Grant/Proof of Concept Program](https://www.northeastern.edu/resdev/resources/internal-grants/tier-1-seed-grantproof-of-concept-program/#_ga=2.156157755.1824776597.1584380030-224881856.1570552518) is a competitive program that provides funding to multidisciplinary teams of faculty members to secure proof of concept, with a goal of successfully competing for future sponsored research opportunities. This team of criminal justice, psychology, and law professors intends to study the social and psychological adjustment of released juvenile lifers. They have two aims: (1) to identify a juvenile lifer’s risk factors as they may relate to recidivism, and (2) to understand the roadblocks that juvenile lifers face in making a successful transition to society. 
+To meet their first objective, the team will conduct a statistical analysis drawing on available data for juvenile lifers released on parole since 2005. To meet their second objective, the team will consult extended personal interviews conducted with 30 juvenile lifers, 15 who are non-recidivating and 15 who have recidivated. The proposed research would not only enhance knowledge on how to best assist reentering juvenile lifers, but would also pose significant policy implications for security, mass incarceration, and community treatment. The team of researchers will also be working with criminal justice doctoral student Stuti Kokkalera, who will be in her fourth year of doctoral studies. Her dissertation is on juvenile lifers and their legal representation in parole board hearings. 
+All together, the team is looking to create safer communities and develop ways to reduce recidivism rates of returning prisoners. They believe the juvenile lifer population is a good place to start given that they have spent most of their lives incarcerated.
+## More Stories
+### [ Professor Brandon Welsh Named the Dean’s Professor of Criminology 05.22.2025](https://cssh.northeastern.edu/sccj/2025/05/22/professor-brandon-welsh-named-the-deans-professor-of-criminology/) ### [ SCCJ Distinguished Professor, Judge Roderick Ireland, Inspires CSSH Graduates  05.20.2025](https://cssh.northeastern.edu/sccj/2025/05/20/sccj-distinguished-professor-judge-roderick-ireland-inspires-cssh-graduates/)
+### [Alpha Phi Sigma Reinstated at SCCJ with New Inductees Honored 05.27.25 Student Stories ](https://cssh.northeastern.edu/sccj/2025/05/27/alpha-phi-sigma-reinstated-at-sccj-with-new-inductees-honored/)

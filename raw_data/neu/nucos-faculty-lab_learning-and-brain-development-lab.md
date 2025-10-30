@@ -1,0 +1,3 @@
+[ Skip to main content ](https://cos.northeastern.edu/nucos-faculty-lab/learning-and-brain-development-lab/#main)
+#  Learning and Brain Development Lab 
+How do we use information we have learned? Does the way people learn and apply knowledge change across development? In the Learning and Brain Development lab, we investigate the development of brain systems for different ways of learning during adolescence, and the impact of learning on memory, decision making, and cognitive control. We are interested in understanding how behavioral and brain changes in adolescence may be adaptive for the situations and goals that arise in this stage of life.

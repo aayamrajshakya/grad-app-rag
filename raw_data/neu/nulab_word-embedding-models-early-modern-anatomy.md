@@ -1,0 +1,19 @@
+[Skip to content](https://cssh.northeastern.edu/nulab/word-embedding-models-early-modern-anatomy/#content)
+[ Stories](https://cssh.northeastern.edu/nulab/stories)
+[Alumni and Completed Research Projects](https://cssh.northeastern.edu/nulab/category/completed-projects/)
+# Word-Embedding Models and the Digital Dissection of Early Modern Anatomy
+_Partially supported by a NULab Seedling Grant._
+Scholarship of early modern English (and European) anatomy has claimed that the anatomy theatre was a popular attraction in seventeenth-century London, its audience a heterogeneous mix not altogether different from the English playhouse. Recent research, however, has suggested that so-called “public” anatomy lectures were in fact limited to university medical students/faculty and wealthy patrons, and in this way, the anatomy theatre may actually have stood opposite the playhouse, whose audience members could range from the lower echelons to the upper elite of English society. In this new understanding of the anatomy theatre, the present project proposes the anatomy theatre be understood as the locus of a burgeoning medical culture distinct from the rest of English society.
+Given historians of medicine in early modern England have demonstrated there was little, if any, learned/popular division in England’s medical culture, vernacular medical literature may be taken as representative of England’s medical culture and compared with dramatic texts as representative of England’s wider cultural milieu. With this understanding, the present project utilizes R-based word vector models to cross-examine how the human body is portrayed across two corpora: early English medical writing and early modern drama.
+Thus far, the project’s preliminary findings suggest that early modern anatomy theatre provided a subtle distinction in how people approached the body. In drama, the body and its parts retain emblematic associations with spiritual, emotional, and social concepts (e.g. the heart as seat of the soul being emblematic of one’s identity), while the anatomy theatre (and medical texts) present the body as a rhetorical end in itself. Though the body and its parts retained an active agency through Galenic humoral physiology in the anatomy theatre, they were not understood as representative of anything larger than themselves—e.g. the heart began to be spoken of as a body part without reference to the soul.
+**Principal Investigator**  
+Jacob Murel, Graduate Student, English
+## Presentations and Publications
+“Building a Corpus of Early Modern Medical Texts for Word Embedding Models,” Connecticut Digital Humanities Conference, February 2021
+“The Multiple Temporalities of George Herbert’s The Temple,” George Herbert Journal, vol. 40, no. 1/2, Fall 2016/Spring 2017, pp. 41-58
+“On the Full- and Half-Sheet Inserts of Andreas Vesalius’s De humani corporis fabrica (1543 and 1555),” Papers of the Bibliographical Society of America, vol. 115, no. 1, March 2021, pp. 43-65
+“Poetic Structure and Temporal Experience in ‘On Time,’” Milton Quarterly, vol. 53, no. 1, March 2019, pp. 34-42
+“Print, Authority, and the Bills of Mortality in Seventeenth-Century London,” The Seventeenth Century, October 2020, pp. 25, DOI: https://doi.org/10.1080/0268117X.2020.1824345
+## More Stories
+### [ Renewable Messaging of Fossil Fuel Companies: Corporate Communication Strategies in Authoritarian Regimes 01.11.2024](https://cssh.northeastern.edu/nulab/renewable-fossil-fuel/) ### [ THE BROWNIES’ BOOK: Mapping Black Boston Education Histories 09.29.2023](https://cssh.northeastern.edu/nulab/the-brownies-book/)
+### [Encoding A Narrative of the Life of Mrs. Mary Jemison for the Women Writers Project: NULab + DITI Research Project 04.11.24 Alumni and Completed Research Projects ](https://cssh.northeastern.edu/nulab/encoding-a-narrative-of-the-life-of-mrs-mary-jemison-for-the-women-writers-project-nulab-diti-research-project/)

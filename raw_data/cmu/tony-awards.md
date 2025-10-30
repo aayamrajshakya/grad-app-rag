@@ -1,0 +1,28 @@
+# [Carnegie Mellon Alumnae Earn 2 2025 Tony Awards ](https://www.cmu.edu/news//stories/archives/2025/june/carnegie-mellon-alumnae-earn-2-2025-tony-awards)
+# [2025 Excellence in Theatre Education Gary Edwin Robinson Selected as 2025 Excellence in Theatre Education Award Winner ](https://www.cmu.edu/news/stories/archives/2025/may/gary-edwin-robinson-selected-as-2025-excellence-in-theatre-education-award-winner)
+# [Master Classes Offer Self-Discovery Through the Arts ](https://www.cmu.edu/news/stories/archives/2025/january/master-classes-offer-self-discovery-through-the-arts)
+# [Carnegie Mellon Alumni Earn 4 Tony Awards in 2024 CMU alumni recognized with 64 Tonys to date — onstage and behind the scenes ](https://www.cmu.edu/news/stories/archives/2024/june/carnegie-mellon-alumni-earn-4-tony-awards)
+# Carnegie Mellon University is the exclusive higher education partner of the [Tony Awards®](http://www.tonyawards.com/index.html)
+As part of the collaboration, the two organizations launched the [Excellence in Theatre Education Award](https://www.cmu.edu/tony-awards/educator/index.html), the first national recognition program to honor kindergarten through high school (K-12) theatre educators.
+## Submissions for the 2026 Excellence in Theatre Education Award are open.
+The Tony Awards®[Excellence in Theatre Education Award program](https://www.tonyawards.com/education-award/).
+[news articles and videos from CMU and the Tony Awards](https://www.cmu.edu/tony-awards/news-video/index.html)
+# — Related Content —
+[](https://www.cmu.edu/news/stories/archives/2025/june/alumni-sound-designers-on-broadway-share-how-cmu-shaped-their-careers)
+## [Alumni Sound Designers on Broadway Share How CMU Shaped Their Careers](https://www.cmu.edu/news/stories/archives/2025/june/alumni-sound-designers-on-broadway-share-how-cmu-shaped-their-careers)
+[](https://www.cmu.edu/news/stories/archives/2025/june/with-broadway-experience-alumni-scenic-designers-offer-advice-be-confident-take-constructive)
+## [With Broadway Experience, Alumni Scenic Designers Offer Advice: Be Confident, Take Constructive Criticism](https://www.cmu.edu/news/stories/archives/2025/june/with-broadway-experience-alumni-scenic-designers-offer-advice-be-confident-take-constructive)
+[](https://www.cmu.edu/news//stories/archives/2025/june/carnegie-mellon-alumnae-earn-2-2025-tony-awards)
+## [Carnegie Mellon Alumnae Earn 2 2025 Tony Awards](https://www.cmu.edu/news//stories/archives/2025/june/carnegie-mellon-alumnae-earn-2-2025-tony-awards)
+[](https://www.cmu.edu/news/stories/archives/2025/june/broadways-buena-vista-social-club-is-big-on-tartan-talent-0)
+## [Broadway's ‘Buena Vista Social Club’ is Big on Tartan Talent](https://www.cmu.edu/news/stories/archives/2025/june/broadways-buena-vista-social-club-is-big-on-tartan-talent-0)
+[](https://www.cmu.edu/news/stories/archives/2025/june/cmu-alumni-shine-in-broadways-death-becomes-her)
+## [CMU Alumni Shine in Broadway’s ‘Death Becomes Her’](https://www.cmu.edu/news/stories/archives/2025/june/cmu-alumni-shine-in-broadways-death-becomes-her)
+[](https://www.cmu.edu/news/stories/archives/2025/may/gary-edwin-robinson-selected-as-2025-excellence-in-theatre-education-award-winner)
+## [Gary Edwin Robinson Selected as 2025 Excellence in Theatre Education Award Winner](https://www.cmu.edu/news/stories/archives/2025/may/gary-edwin-robinson-selected-as-2025-excellence-in-theatre-education-award-winner)
+[](https://www.cmu.edu/news/stories/archives/2025/may/cmu-created-shared-experience-for-directors-now-on-broadway)
+## [CMU Created Shared Experience for Directors Now on Broadway](https://www.cmu.edu/news/stories/archives/2025/may/cmu-created-shared-experience-for-directors-now-on-broadway)
+[](https://www.cmu.edu/news/stories/archives/2025/january/master-classes-offer-self-discovery-through-the-arts)
+## [Master Classes Offer Self-Discovery Through the Arts](https://www.cmu.edu/news/stories/archives/2025/january/master-classes-offer-self-discovery-through-the-arts)
+[](https://www.cmu.edu/news/stories/archives/2024/may/the-tony-awards-and-carnegie-mellon-university-present-the-2024-excellence-in-theatre-education)
+## [CJay Philip Named 2024 Excellence in Theatre Education Award Winner](https://www.cmu.edu/news/stories/archives/2024/may/the-tony-awards-and-carnegie-mellon-university-present-the-2024-excellence-in-theatre-education)

@@ -1,0 +1,12 @@
+January 10, 2025
+# Interning at the House of Representatives
+Mateo Ruiz is majoring in Ethics, History, & Public Policy at Carnegie Mellon University (CMU). In Fall 2024, he participated in the Carnegie Mellon University Washington Semester Program (CMU/WSP). Students in this experiential learning program gain real-world experience with an internship while taking courses on public policy, American politics, governance, institutions, and law with Carnegie Mellon faculty. Below is an interview with Mateo about his internship experience at the Office of Congresswoman Susie Lee. Responses have been lightly edited for length and clarity.
+_What interested you about this internship?_
+During my internship with the House of Representatives, I was particularly drawn to the chance to observe the inner workings of government. As someone recently transitioning into a new major, I was eager to understand how my technical skills could be leveraged within a governmental framework. This internship provided a unique opportunity to explore potential roles for my background in the intersection of technology and public service.
+What was your favorite part of the internship?
+My favorite part of the internship was attending briefings focused on technology. It was eye-opening to see how policymakers approached the same technological advancements I was studying as an engineering major, highlighting the importance of expanding technological literacy and the need for thoughtful consideration of the rapid advancements in this space. It really encouraged me to step into the intersection between these two passions.
+What were some skills that you needed to carry out your duties? What in your CMU experience helped prepare you for success?
+Drawing from my CMU coursework and experiences, I've honed robust technical skills in data analysis and Excel, alongside valuable soft skills in networking and cross-field collaboration. My time in Washington showed me how these skills not only made me the go-to person for data projects but also someone people felt comfortable approaching.
+How does this internship fit in with your studies at CMU and broader plans for after graduation?
+This internship seamlessly ties into my CMU studies and future aspirations by offering me hands-on experience in policy areas crucial to my career goals. It's my guiding light, directing me towards in-depth studies of the Middle East, voting rights, and technology policy. 
+_Photo credit: Mateo Ruiz_

@@ -1,0 +1,25 @@
+[School of Music](https://www.cmu.edu/cfa/music/index.html) › [ Programs ](https://www.cmu.edu/cfa/music/programs/index.html) › [ Graduate Programs ](https://www.cmu.edu/cfa/music/programs/graduate-programs/index.html) › Collaborative Piano 
+# Collaborative Piano
+The Collaborative Piano curriculum gives specialized training to pianists pursuing a career working with vocalists and instrumentalists, providing the necessary skills and artistry required for a growing and vital field. Graduating collaborative pianists will never be without work, and CMU’s degree program gives students the tools and practical experience for their careers in the field of music. Graduating students will be prepared for work as recitalists, chamber musicians, orchestra pianists, continuo players, répétiteurs, coaches, music directors, lyric diction coaches, conductors and instructors. CMU collaborative piano graduates have gone on to work at Carnegie Mellon Schools of Music and Drama, Pittsburgh Opera, Resonance Works, Indianapolis Opera, Pittsburgh Ballet, the Universities of Texas, New Mexico, Point Park, Duquesne and Syracuse University as well as hold international positions in Asia and Peru.
+## Master of Music
+Applied Studio is the most important area of study in graduate degree programs at Carnegie Mellon. Master of Music candidates must perform a minimum of one full recital and will also have frequent opportunities to play in recital with other students. 
+Beyond the general curriculum in academic studies, the collaborative piano department has an impressive range of courses designed to train pianists for performance as well as music direction and coaching. In the Instrumental Track, pianists participate in courses that teach skills in the sonata repertoire, orchestral reduction and chamber music literature and repertoire. In the Vocal Track, courses include vocal literature, lyric diction and training in music direction and career skills. Instrumental pianists have opportunities to play in multiple large ensembles and are trained to play within the orchestra. Those interested in a career in opera will have multiple opportunities to work as staging pianists and orchestra pianists/continuo players in opera productions as well as play recitals and benefit from playing for lessons, seminars and coachings. 
+A wide range of electives – such as business management or foreign languages - meet the diverse career needs of the graduate student both within and external to the School of Music. Within the School of Music, students have the opportunity to study music history, theory, pedagogy, chamber music, entrepreneurship, computer music and recording technology. 
+## Certificate
+The Advanced Music Studies Certificate in Collaborative Piano is a one-year, fully designable program which gives students the opportunity to customize their studies under the guidance of their instructor. The program is available in one of three tracks: Dual Track (Instrumental and Vocal), Instrumental Track, and Vocal Track. The audition requirements are the same as the graduate program requirements. Equivalent repertoire will be considered on a case-by-case basis. 
+## Community Outreach
+Presentation skills in classical and contemporary music are essential for today’s musician. Communication skills are vital for engagement with any audience. For this reason, all master’s degree students are required to present at least one outreach activity during their two years of study in the graduate program. This activity can be any musical presentation with an emphasis on education. Students will curate and present a program that emphasizes audience interaction. In doing so, they will both inform and connect with the audience. 
+  * [Audition/Portfolio Review Requirements](https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/collaborative-piano-audition-requirements.html)
+
+
+#  Collaborative Piano Faculty 
+## [Mark Carver Associate Teaching Professor of Collaborative Piano ](https://www.cmu.edu/cfa/music/people/Bios/carver_mark.html)
+## [Dr. Sara Chiesa Special Faculty in Vocal Coaching and Collaborative Piano ](https://www.cmu.edu/cfa/music/people/Bios/chiesa_sara.html)
+## [Dr. Jocelyn Dueck Assistant Professor of Collaborative Piano ](https://www.cmu.edu/cfa/music/people/Bios/dueck_jocelyn.html)
+## [Sung-Im Kim Assistant Teaching Professor in Collaborative Piano ](https://www.cmu.edu/cfa/music/people/Bios/kim_sung-im.html)
+## [Luz Manríquez Teaching Professor of Collaborative Piano and Piano Pedagogy ](https://www.cmu.edu/cfa/music/people/Bios/manriquez_luz.html)
+## [Rodrigo Ojeda Assistant Teaching Professor of Collaborative Piano ](https://www.cmu.edu/cfa/music/people/Bios/ojeda_rodrigo.html)
+[Livestream](https://www.youtube.com/CarnegieMellonMusic "CMU Music Youtube")
+[Visit](https://www.cmu.edu/cfa/music/apply/visit-music.html)
+[Apply](https://www.cmu.edu/cfa/music/apply/index.html "Apply button")
+[Contact Us](https://www.cmu.edu/cfa/music/contact/index.html)

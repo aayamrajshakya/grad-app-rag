@@ -1,0 +1,10 @@
+  * [ ](javascript:PODShare\('facebook',%20'https%3A%2F%2Fphd.northeastern.edu%2Fglobal%2Fcriminology-and-justice-policy-phd-student-kaley-jones-co-authors-study-on-how-school-transitions-influence-teen-behavior%2F',%20555,%20350\))
+  * [ ](javascript:PODShare\('twitter',%20'https%3A%2F%2Fphd.northeastern.edu%2Fglobal%2Fcriminology-and-justice-policy-phd-student-kaley-jones-co-authors-study-on-how-school-transitions-influence-teen-behavior%2F',%20520,%20442\))
+  * [ ](javascript:PODShare\('linkedin',%20'https%3A%2F%2Fphd.northeastern.edu%2Fglobal%2Fcriminology-and-justice-policy-phd-student-kaley-jones-co-authors-study-on-how-school-transitions-influence-teen-behavior%2F',%20550,%20442\))
+  * [ ](javascript:PODShare\('email',%20'https%3A%2F%2Fphd.northeastern.edu%2Fglobal%2Fcriminology-and-justice-policy-phd-student-kaley-jones-co-authors-study-on-how-school-transitions-influence-teen-behavior%2F',%20100,%20100\))
+
+
+Criminology and Justice Policy PhD student Kaley Jones collaborated with Assistant Professor Cassie McMillan on a new study exploring how changing schools between eighth and ninth grade can influence substance use among adolescents.
+Together, they analyzed data from more than 14,000 students across 51 public school networks in Pennsylvania and Iowa to understand how friendships, popularity, and social norms shape behavior during the transition to high school. Their findings revealed that students who switched schools were more likely to increase alcohol use—an activity often linked to social status—while tobacco use remained stable.
+By investigating how social environments influence decision-making during this pivotal period, McMillan and Jones’s research offers insights that could help educators and policymakers better support students navigating the move from middle to high school. To learn more, see the [Northeastern Global News](https://news.northeastern.edu/2025/10/02/school-transition-research-teen-substance-use/?utm_source=News%40Northeastern&utm_campaign=f3cb5baab7-EMAIL_CAMPAIGN_2022_09_22_11_00_COPY_01&utm_medium=email&utm_term=0_508ab516a3-f3cb5baab7-608404155).
+Photo Credit: Getty Images

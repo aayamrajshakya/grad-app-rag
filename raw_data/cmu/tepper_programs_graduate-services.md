@@ -1,0 +1,17 @@
+[ Skip to main content ](https://www.cmu.edu/tepper/programs/graduate-services#main-content)
+# Graduate Student Support Services
+Your success is our mission.
+At the Tepper School of Business our graduate programs combine small team-based classes with professors who know you and a full range of student support services. From admissions through academics to your next career move you’ll have access to resources designed to help you thrive. Everywhere you look you’ll find people ready to help you achieve your goals.
+You’ll build personal connections with faculty alumni and classmates who bring a depth and diversity of experience to share. Through the [Accelerate Leadership Center](https://www.cmu.edu/tepper/programs/graduate-services/accelerate-leadership-center) you’ll receive one-on-one executive leadership coaching tailored to your goals and personality from day one, a benefit rare among graduate business programs
+Our [Masters Career Center](https://www.cmu.edu/tepper/programs/graduate-services/masters-career-center) offers dedicated career coaches with industry expertise who stay with you from the start of classes or earlier through graduation and beyond. They understand your strengths and ambitions and provide guidance specific to your career path. With our alumni network you’ll gain meaningful connections with professionals who have advanced in their fields and are ready to support the next generation of Tepper School graduates.
+## Program Directors
+Each master’s program at the Tepper School has a dedicated program director who is your go-to resource from day one. They understand the curriculum inside and out and can help you navigate everything from selecting the right courses to shaping your academic experience. They work closely with faculty and other support teams to make sure your program meets your goals and that you have what you need to succeed.
+[Explore Graduate Programs](https://www.cmu.edu/tepper/programs)
+## Student Services
+Student Services is here to make life at Carnegie Mellon as smooth as possible. They handle the practical details that help you stay focused on your studies. This includes registration, scheduling, and connecting you with the right campus resources. They also help you find your place in the Tepper School community by supporting student organizations, events, and leadership opportunities.
+## Accelerated Leadership Center
+The Accelerated Leadership Center helps you develop the leadership skills you will need to excel during your program and throughout your career. Through assessments, coaching, and practical learning experiences, you will build self-awareness and learn how to lead effectively in different situations. Their work is tailored to your strengths and areas for growth so you can make real progress where it matters most.
+[Learn More](https://www.cmu.edu/tepper/programs/graduate-services/accelerate-leadership-center)
+## Masters Career Center
+The Masters Career Center focuses on preparing you for your next step. That may be moving into a new role, advancing in your current field, or exploring a different career path. They offer one-on-one coaching, employer connections, and resources to help you sharpen your job search strategy. From refining your resume to preparing for interviews, they work with you throughout your time at the Tepper School and continue to be a resource after you graduate.
+[Learn More](https://www.cmu.edu/tepper/programs/graduate-services/masters-career-center)

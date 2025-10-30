@@ -1,0 +1,21 @@
+#  Lourdes Cardozo Gaibisso
+#  Lourdes Cardozo Gaibisso
+Photo by Grace Cockrell
+For Lourdes Cardozo Gaibisso, “home” is more than just a place—it’s something people create.
+“I believe el lugar lo hace uno: ‘the place is made by the person,’” she said. “My mom taught me this when I was a child, and I carry that lesson with me. I try to foster a sense of belonging for students who are far from home by creating a welcoming environment where they feel valued and respected.”
+As an assistant professor of TESOL and linguistics in MSU’s Department of English, Cardozo Gaibisso knows firsthand how difficult it can be to adapt to a new culture, new language and new country. Born and raised in Montevideo, Uruguay, she learned English as a child by watching sitcoms and reading short stories. That early exposure grew into a lifelong passion for language learning and eventually a career in linguistics and TESOL—teaching English to speakers of other languages.
+She recalls her own challenges with pronunciation and intonation, and the pressure many second language speakers feel to “sound perfect.” Over time, she came to embrace her accent as a meaningful part of her identity, a perspective she now shares with her students. “Everyone has an accent,” she said. “It doesn’t define your abilities. It’s simply part of who you are.”
+That message of self-acceptance is central to her teaching philosophy. At MSU, she encourages students to bring their cultural backgrounds and experiences into the classroom. “I want students to see that they can shape their environment and find community wherever they are,” she said.
+Her journey to Starkville reflects a spirit of determination and discovery. After earning her bachelor’s degree in English language teaching in Uruguay, a master’s degree at Universidad ORT Uruguay deepened her interest in research, and a short teacher exchange program in Virginia sparked the dream of pursuing a doctorate in the U.S. In 2014, she arrived at the University of Georgia as a Fulbright scholar to begin her Ph.D. studies. 
+Since joining MSU’s faculty in 2021, Cardozo Gaibisso has built a career that blends teaching, research and community engagement. She teaches both on campus and online, working with undergraduates beginning their journey and with experienced teachers pursuing TESOL certification. One of her greatest joys, she said, is mentoring students who discover a love of research and choose to continue into graduate study.
+Her research also reflects her commitment to community. Currently, she leads SEMBRAR—Sustainable, Environmental, Multidisciplinary, Bilingual Research and Advocacy in Rurality—a project with collaborators at the University of Florida and funded by the National Academies of Sciences, Engineering and Medicine. 
+Internationally, she recently launched BRIDGE TESOL, Building Regional Initiatives for Developing Global Educators for Teaching English to Speakers of Other Languages, a partnership between MSU and Universidad ORT Uruguay. Funded by MSU’s International Institute, it provides professional development and support for English teachers abroad.
+Her career also has included roles with the World Bank and UNESCO, where she focused on teacher development and curriculum design across Latin America and the Caribbean.
+Despite the recognition she has received—including the Promising Scholar Award from the North American Systemic Functional Linguistics Association, a 2024 Early Career Research Fellowship from the National Academies, and MSU’s 2025 College of Arts and Sciences Research Award in the Humanities—she measures her success in a different way.
+“I am most proud of my students’ achievements,” she said. “Whether they are awarded a grant to teach abroad or admitted into graduate programs, those moments give me a deep sense of fulfillment. Seeing students succeed reminds me of the importance of our roles as professors and mentors and its lasting impact on their lives.”
+By Sarah NicholasSeptember 26, 2025
+[Suggest an Our People](https://www.msstate.edu/contact/?show=ourpeople)
+Faculty 
+  * [ Find Mississippi State University on Youtube](http://www.youtube.com/msstateur/ "Find Mississippi State University on Youtube")
+
+

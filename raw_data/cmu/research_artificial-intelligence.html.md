@@ -1,0 +1,52 @@
+  * [Home](https://www.africa.engineering.cmu.edu/index.html)
+  * [Research](https://www.africa.engineering.cmu.edu/research/index.html)
+
+
+# AI and robotics
+At CMU-Africa, artificial intelligence (AI) provides a foundation for engineers to build systems that can perceive, plan, and interact with the world to achieve design goals. Faculty and students are working to obtain a deeper understanding of complex systems and leverage sustainable AI-based solutions, such as robotics, for assisting people and improving productivity. In many cases, data analytics play an important role in understanding these systems and machine learning enables predictive analytics which can serve to automate processes, support decision-making, and inform policymakers.
+## AI and robotics research at CMU-Africa
+CMU-Africa aims to use AI and robotic systems to address important problems in areas such as transportation, building systems, manufacturing, energy, agriculture, security, health, and climate. Many projects fall into the AI for Social Good (AI4SG) thematic area and involve working with various publicly available datasets and connecting with specific internal datasets. The goal is to improve our understanding of real-world systems and address specific challenges that can have a positive impact on both society and the environment. For example, the solutions being enabled by AI can reduce time, improve efficiency, increase accuracy, and offer scalability. An emerging thematic area, known as AI ethics, is helping to increase societal awareness of the dangers of some untested AI solutions and the need to carefully balance reward and risk.
+## AI and robotics research areas
+* ### Semantically-modulated episodic-procedural memory for cognitive robotics
+One of the challenges of AI is to understand how machines can exhibit flexible, cognitive behavior of humans. One approach—the situation model framework—involves behavioral episodes, recombinable models that link a current state, an action, and a goal state. Behavioral episodes can be internally simulated to determine the effects of carrying out actions in the current context before performing the action. The goal of this project is to develop a computational model of behavioral episodic memory using contemporary deep neural networks in the form of a semantically-modulated joint episodic-procedural associative memory, allowing high-level language descriptions of a desired action to condition the recall of appropriate behavioral episodes.
+Pictured: Joint episodic-procedural memory as an explicit network of associations between perceptions and actions, drawn from episodic and procedural memories, unwinding the temporal and causal relationships between specific perceptions and actions that are implicit in the mappings of other perception-motor representations
+* ### Facially-expressive robots for human-robot interaction
+Human-robot interaction in the African context has motivated researchers to revisit the uncanny valley challenge in robotics—avoiding a negative emotional response towards robots that bear a close, but not sufficiently close, resemblance to humans, especially when the robot alters its facial expressions—and how different cultures may have different expectations of what makes a robot look and behave "human." In the AI-robotics course Humanoid Robotic and Cognition, students are taught to build a replica of the open-source robot Eva to learn the technical challenges of synchronizing lip and facial gestures with audio output.
+* ### Enabling AI models to understand physics
+CMU-Africa is working to enable AI models to understand physics, which plays a critical role in how robots engage with their environments and with people. At a glance, humans can assess whether a floor surface appears slippery or safe to walk on, if a car tire seems properly inflated or deflated, or if a package is securely sealed or at risk of opening during transit. However, the understanding of the computational framework enabling machines to swiftly process and interpret such information remains limited. To ensure the deployment of safe and beneficial systems in practical scenarios, it's crucial for AI/ML models to encompass both our intuitive and explicit grasp of physics.
+Visualization of learned simulator predictionsLeft: Particle-based physics datasets. Right: Mesh-based cylinder flow dataset)
+## Get involved
+  * Learn more about CMU-Africa's [Master of Science in Engineering Artificial Intelligence](https://www.africa.engineering.cmu.edu/academics/programs/msece/ms-ad-ece.html)
+  * Email research-cmuafrica@andrew.cmu.edu if you are interested in collaborating with CMU-Africa on AI and robotics research
+
+
+## Related news
+### [A dialogue on digital humanism in Africa  Opens in new window Led by globally recognized experts, participants at the first-ever Summer School on Digital Humanism at CMU-Africa teamed up to discuss issues at the intersection of technology and humanity in the African context.  ](https://engineering.cmu.edu/news-events/news/2025/08/15-digital-humanism.html)
+### [Water consumption of African data centers in the age of AI  A new study at CMU-Africa looked at national weather and electricity generation data to estimate the water usage efficiency for data centers across the continent.  ](https://www.africa.engineering.cmu.edu/news/2025/08/13-water-efficiency.html)
+### [Helping African fintech companies provide secure services  Opens in new window Carnegie Mellon University Africa’s Upanzi Network in collaboration with Approov have created APKIT, an accessible cybersecurity tool for financial technology developers.  ](https://engineering.cmu.edu/news-events/news/2025/03/05-apkit.html)
+### [An app to detect birth asphyxia in Africa  Opens in new window Researchers from Carnegie Mellon University are developing an app called HumekaFL to detect birth asphyxia in newborn babies in developing countries.  ](https://engineering.cmu.edu/news-events/news/2025/01/14-birth-asphyxia.html)
+### [Malaria workshop equips laboratory technicians  CMU-Africa held a workshop focused on revolutionizing malaria microscopy through advanced digital data collection techniques.  ](https://www.africa.engineering.cmu.edu/news/2024/10/22-ai-healthcare-training.html)
+### [Getting out of your comfort zone  Natasha Mutangana (MS EAI '24) reflects on her experiences at CMU-Africa and with the Mastercard Foundation Scholars Program.  ](https://www.africa.engineering.cmu.edu/news/2024/10/8-natasha-feature.html)
+### [Trustworthy artificial intelligence for the greater good  Opens in new window MechE’s Ding Zhao trains students to enhance the affordability, reliability, and inclusivity of AI through the Trustworthy AI Autonomy course.  ](https://engineering.cmu.edu/news-events/news/2024/07/29-trustworthy-ai.html)
+### [One student, two continents  Opens in new window CMU-Africa student Farida Eleshin (MSIT ’24) is concluding her master’s program with a final semester in Pittsburgh, where she’s working on several research projects in the CHIMPS Lab that focus on privacy and security.  ](https://engineering.cmu.edu/news-events/news/2024/04/04-one-student-two-continents.html)
+[See More Stories](https://www.africa.engineering.cmu.edu/research/artificial-intelligence.html#more)
+### [A practical convergence of AI and machine learning  Recently, students at CMU-Africa embarked on an exciting class project to explore the intricate dimensions of humanoid robots.  ](https://www.africa.engineering.cmu.edu/news/2023/11/9-ai-project.html)
+### [Afretec research planning grant brings assistive technologies to those in need  In 2022, the African Engineering and Technology Network awarded one of its first planning grants to a team of researchers whose goal is to make assistive technologies accessible in second and third-world countries.  ](https://www.africa.engineering.cmu.edu/news/2023/10/18-assistive-technology.html)
+### [$3.3 million awarded to advance digital technology in Africa  Opens in new window Afretec has awarded 11 grants, each led by a multi-university research team, to build research capacity and work toward achieving the UN Sustainable Development Goals (SDGs) in Africa.  ](https://engineering.cmu.edu/news-events/news/2023/05/12-inclusive-digital-transformation.html)
+### [A global approach to tackling grand challenges  Opens in new window CMU-Africa students join CMU-Pittsburgh and CMU-Qatar students in a hybrid course that focuses on critically evaluating the progress of artificial intelligence.  ](https://engineering.cmu.edu/news-events/news/2023/03/29-grand-challenges-ai.html)
+### [AI Engineering will change the world around us  Opens in new window Carnegie Mellon University’s College of Engineering is equipping next generation engineers with the ability to integrate AI into the constraints of the engineering problem by way of seven new master’s degrees in AI Engineering.  ](https://engineering.cmu.edu/news-events/news/2023/01/20-msaie.html)
+  * [ Watch the Video  Opens in new window](https://youtu.be/0JIJP9udvvs)
+
+
+### [Transformational growth at CMU-Africa  Opens in new window A historic partnership with the Mastercard Foundation will expand the engineering and technology, research, and entrepreneurship programs at CMU-Africa, helping to strengthen Africa’s technology, innovation, and research ecosystem.  ](https://engineering.cmu.edu/news-events/news/2022/09/08-mcf.html)
+### [Using big data to manage COVID-19 in Rwanda  Patrick McSharry is collaborating with the Government of Rwanda to analyze the spread of the COVID-19 pandemic in Rwanda and make predictions about how the disease may impact the country in the future.  ](https://www.africa.engineering.cmu.edu/news/2022/02/24-mcsharry-research.html)
+## Master of Science in Engineering Artificial Intelligence
+This 16-20 month program opens the door to advanced skills that will enable engineers to design powerful solutions to today's challenges.
+[Learn more](https://www.africa.engineering.cmu.edu/academics/programs/mseai.html)
+Explore Other Research Topics
+  * [ Cybersecurity ](https://www.africa.engineering.cmu.edu/research/cybersecurity/index.html)
+  * [ Energy and mobility ](https://www.africa.engineering.cmu.edu/research/energy.html)
+  * [ Information and communications technology ](https://www.africa.engineering.cmu.edu/research/ict.html)
+  * [ Research ](https://www.africa.engineering.cmu.edu/research/index.html)
+
+

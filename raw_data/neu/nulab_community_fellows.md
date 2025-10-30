@@ -1,0 +1,15 @@
+[Skip to content](https://cssh.northeastern.edu/nulab/community/fellows/#content)
+[ Community](https://cssh.northeastern.edu/nulab/community/)
+# Graduate Fellows
+The NULab hosts 4–6 graduate student Fellows from a wide variety of departments and disciplinary backgrounds each year. NULab Research Fellows support the activities of the NULab, work with the Digital Integration Teaching Initiative (DITI), and pursue their own research in collaboration with NULab core faculty. 
+## Current NULab Research Fellows
+  * ### [Ayah Aboelela PhD in World History Ayah Aboelela is a World History Ph.D. student at Northeastern University. She researches the Hajj in the late Ottoman period through the eyes of Muslim travel writers who journeyed through Egypt, Palestine, and the Hijaz. Her work explores patterns … ](https://cssh.northeastern.edu/student/ayah-aboelela/)
+  * ### [Dipa Desai PhD in Public Policy Dipa Desai is a PhD student in Public Policy at the School of Public Policy and Urban Affairs, with a concentration in Sustainability and Resilience. She is curious about the connections among current climate change, social injustice, and economic in… ](https://cssh.northeastern.edu/student/dipa-desai/)
+  * ### [Zhen Guo Network Science PhD Student Zhen (she/her) is a 4th year PhD student at Network Science Institute. Her research focuses on social networks. ](https://www.networkscienceinstitute.org/people/zhen-guo)
+  * ### [Claire Lavarreda PhD in World History Claire Lavarreda is a World History Ph.D. Candidate at Northeastern University specializing in Indigenous Studies and Book History. She is the recipient of two Rare Book School scholarships as well as several research fellowships, including awards at… ](https://cssh.northeastern.edu/student/claire-lavarreda/)
+  * ### [Sara Morrell PhD in Political Science Sara Morrell is a PhD student in the Department of Political Science, specializing in International Relations and Research Methods. Her research focuses on violent extremism online and international law in cyberspace. … ](https://cssh.northeastern.edu/student/sara-morrell/)
+  * ### [Shannon Peifer English MA Student Shannon Peifer (she/they) is a MA student in the English Department at Northeastern University, interested in the fields of American literature, disability studies, and health humanities. They are primarily interested in how narratives of disability … ](https://cssh.northeastern.edu/student/shannon-peifer/)
+  * ### [Emily Sullivan English PhD Student Emily Sullivan (she/her) is a PhD student of literature in the English Department at Northeastern University. Emily’s research focuses on feminism, trauma, and graphic narratives, specifically investigating the intersection of testimony and vis… ](https://cssh.northeastern.edu/student/emily-sullivan/)
+  * ### [Mel Williams English PhD Student Melissa (Mel) Williams (she/her) is a PhD student in the English Department at Northeastern University. Her fields of study primarily include colonial and post-colonial theory, multiculturalism, and the role of literature in education. She is primari… ](https://cssh.northeastern.edu/student/mel-williams/)
+
+

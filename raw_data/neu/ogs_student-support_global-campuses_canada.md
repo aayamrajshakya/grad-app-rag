@@ -1,0 +1,33 @@
+#  Canadian Campuses 
+Information for international students planning to attend the Northeastern University program in Canada, including study permit processing, general guidelines and support services. 
+##  New Students 
+[POA, PAL and Deposit Process](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/poa-and-deposit-process/)
+[Applying for a Study Permit](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/applying-for-a-study-permit/)
+[Co-Op Work Permit](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/co-op-work-permit/)
+[Living in Canada](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/living-in-canada/)
+[New Students Traveling to Canada](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/traveling-to-canada/)
+[Next Steps for New International Students](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/next-steps-for-new-international-students-winter-spring-2025/)
+[Late Arrival and Deferral Policies](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/late-arrival-and-deferral-policies-for-fall-2023/)
+[Social Insurance Number](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/social-insurance-number/)
+[Upcoming Events for Incoming International Students](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/special-events-canada/)
+[Credit Transfer and Immigration Implications](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/credit-transfer-and-immigration-implications/)
+##  Student Support 
+[Health Insurance](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/health-insurance/)
+[Housing in Canada](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/housing-in-canada/)
+[Driving in Canada](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/driving-in-canada/)
+[myOGS Portal Document Submission](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/myogs-portal-document-submission/)
+[E-Forms (Canada)](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/e-forms-canada/)
+[Scams and Safety](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/scams-and-safety/)
+[Foreign Consultants and Embassies](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/foreign-consultants-and-embassies/)
+[Retaining Legal Services and Advice](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/legal-services-in-toronto-and-vancouver/)
+[Immigration Policy Updates](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/ircc-policy-updates-january-2024/)
+##  Current Students 
+[Maintaining Student Status in Canada](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/maintaining-student-status-in-canada/)
+[Letters of Invitation](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/letters-of-invitation/)
+[Inviting Family and Friends to Canada](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/inviting-family-and-friends-to-canada/)
+[Campus Transfer](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/campustransfer/)
+[Academic Dismissal and Immigration Policies](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/academic-dismissal-and-immigration-policies/)
+[Breaks in Studies and Full-Time Definitions](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/breaks-and-full-time-definitions/)
+[Working While Studying](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/working-while-studying/)
+[Volunteering In Canada](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/volunteering-in-canada/)
+[Post Graduation Work Permit](https://international.northeastern.edu/ogs/student-support/global-campuses/canada/post-graduation-work-permit/)

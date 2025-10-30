@@ -1,0 +1,3 @@
+[ Skip to main content ](https://cos.northeastern.edu/nucos-faculty-lab/time-domain-high-energy-astrophysics-group/#main)
+#  Time-Domain High-Energy Astrophysics Group 
+The time-domain high-energy astrophysics group studies a large variety of high energy transient phenomena related to black holes of mass across all mass scale and neutron stars. This group focuses on tidal disruption of stars by massive black holes (tidal disruption events), the hunt for the rare intermediate-mass black holes, and multi-messenger astronomy (search for the electromagnetic counterparts to gravitational wave events from binary compact object mergers). The group used both the traditional method and the more advanced machine learning technique.

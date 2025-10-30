@@ -1,0 +1,11 @@
+[Dietrich College of Humanities and Social Sciences](https://www.cmu.edu/dietrich/) › [Department of History](https://www.cmu.edu/dietrich/history/index.html) › [ Graduate ](https://www.cmu.edu/dietrich/history/graduate/index.html) › [ Graduate Students ](https://www.cmu.edu/dietrich/history/graduate/students/index.html) › [ Alumni ](https://www.cmu.edu/dietrich/history/graduate/students/almuni/index.html) › Kate Chilton, Ph.D., 2010 
+#  Kate Chilton, Ph.D., 2010 
+March 24, 2017
+I am currently a lecturer at San Jose State University and a consultant to a digital teaching platform startup called Globalyceum. I enjoy teaching at such an incredibly diverse institution, where many students are first-generation immigrants and first in their family to attend college. Like Carnegie Mellon, SJSU is also heavily focused on Engineering and Computer Science, so I have drawn on my teaching experience as a graduate student to convince skeptical engineers of the importance of history and the transferable skills they can learn. As part of this effort, I am engaged in a project along with colleagues from across the California State University system to redesign the American History Survey course that is required of all California undergraduates and to research what kinds of interventions make the most impact on student engagement and success.
+My time at Carnegie Mellon was marked by incredible friendships and support from other graduate students within the department and across the university. Now that I live in Silicon Valley, those experiences and connections were instrumental in encouraging me to get involved in the fast-growing educational technology field. At Globalyceum, a company founded by a former San Jose State University history professor, I create content for the platform in American History, and assist faculty with the transition to a digital text and best teaching practices using active learning resources.
+[Meet Other Alums](https://www.cmu.edu/dietrich/history/graduate/students/almuni/index.html)
+# At a Glance...
+##### Graduation Year:
+Ph.D. 2010
+##### Current Occupation:
+Lecturer at San Jose State University and consultant to a digital teaching platform, Globalyceum

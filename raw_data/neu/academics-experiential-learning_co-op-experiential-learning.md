@@ -1,0 +1,5 @@
+#  Co-op & Experiential Learning 
+Experiential learning, anchored by our signature cooperative education program, lies at the heart of a Northeastern education. Our broad mix of experience-based education programs—including co-op, student research, service learning, and global learning—will enrich your education and transform your life. Northeastern’s Experiential PhD program also offers internships, fellowships, practicums, LEADERs (combines research and professional skills in industry or public sector), and special initiative programs for PhD students.
+The college also has over 60 student organizations and students have the opportunity to attend a variety of events from distinguished speakers to regional, national and even global competitions.
+> Northeastern values offering real-world engagement to our students so they are better prepared to succeed in the lives they choose after graduation.
+Bioengineering students traveled to Addis Ababa, Ethiopia for two weeks to work with biomedical technicians at St Paul's hospital. 

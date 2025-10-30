@@ -1,0 +1,10 @@
+star twitter tiktok facebook envelope linkedin instagram youtube logo alert-red alert home left-quote chevron hamburger minus plus search triangle x   
+
+# Michele Smith
+* * *
+## Vice President Of Legacy And Estate Brand Management At Craft Recordings; Grammy Winner
+Michele Smith is a 2023 Grammy® Award-winning compilation producer who serves as Vice President of Legacy and Estate Brand Management at Craft Recordings, the catalog label of Concord, the largest independent global leader in the development and acquisition of recorded music, music publishing and theatrical performance rights.
+Michele is a Grammy® Award winning compilation producer for Written In Their Soul: The Stax Songwriter Demos O.J.: Made in AmericaAiley
+Named as a 2024 “Hero Behind The Culture” by the Living Legends Foundation, Michele procures licensing and preserves the legacies of Stax Records, The Estate of Billie Holiday and The Estate of Tammy Wynette. She proactively works with Concord Originals, Concord’s Film & TV team, to develop viable productions pertaining to each of those important legacies. She was an Executive Producer on the 2019 documentary, Billie, 
+Named one of Billboard's 2022 Women in Music Executive Honorees as well as a Billboard Indie Power Player, Michele works closely with and serves as Concord’s representative on the Board of Directors for the Soulsville Foundation, a 501C3 non-profit that operates the Stax Museum of American Soul Music, Stax Music Academy and The Soulsville Charter School, in Memphis, TN. Michele mentors youth interested in musical careers and is a vocal change agent and member of Concord’s Diversity & Inclusion Committee and Impact Investment Committee, which focuses on investing in music and theater industries that serve underrepresented and marginalized communities.
+Prior to her position at Concord, Michele was a Marketing/Video Executive at Virgin Records, MCA Records, and Hidden Beach Recording. She credits her early years at Perspective Records, with Jimmy Jam and Terry Lewis, for setting a strong foundation. Michele holds a Bachelor of Liberal Arts degree from Simon Fraser University.

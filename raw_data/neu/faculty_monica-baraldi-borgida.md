@@ -1,0 +1,53 @@
+[Skip to main content](https://cps.northeastern.edu/faculty/monica-baraldi-borgida/#main)
+# Monica Baraldi Borgida
+Associate Teaching Professor
+* * *
+Contact
+[[email protected]](https://cps.northeastern.edu/cdn-cgi/l/email-protection#523f7c303d20353b3633123c3d20263a3733212637203c7c373627)
+## Biography
+Monica Borgida received her PhD in Business Administration from the University of Bologna and the University of Pisa, Italy. She has been visiting scholar and/or assistant professor at the following institutions: University of Bologna (Italy), Boston University, University of California Los Angeles, Bentley University, the Tellus Institute, and case researcher at the Harvard Business School. 
+Her research interests include sustainable global economy and business sustainability. Her work is dedicated to the analysis of for-profit and non-profit organizations that contribute to a sustainable economic environment. 
+## Education
+PhD from University of Pisa (2003)
+## Area of Expertise
+Business Administration
+[ Back to top ](https://cps.northeastern.edu/faculty/monica-baraldi-borgida/#)
+[ Northeastern University College of Professional Studies](https://cps.northeastern.edu/)
+[ Apply now ](https://cps.northeastern.edu/admissions-aid/apply-now/)
+Call: [877.668.7727](tel:877.668.7727)  
+  
+50 Nightingale Hall  
+360 Huntington Ave  
+Boston, MA 02115-9959 
+  * [ACADEMICS](https://cps.northeastern.edu/faculty/monica-baraldi-borgida/#)
+    * [Academic Leadership](https://cps.northeastern.edu/academics/academic-leadership/)
+    * [Accreditations](https://cps.northeastern.edu/about-the-college-of-professional-studies/accreditations/)
+    * [Explore Programs](https://cps.northeastern.edu/program/)
+    * [Faculty](https://cps.northeastern.edu/faculty/)
+    * [Global Pathways](https://catalog.northeastern.edu/professional-studies/global-pathways/)
+    * [Program Learning Outcomes](https://cps.northeastern.edu/academics/program-learning-outcomes/)
+  * [ADMISSIONS & AID](https://cps.northeastern.edu/faculty/monica-baraldi-borgida/#)
+    * [Application FAQ](https://cps.northeastern.edu/admissions-aid/application-faq/)
+    * [CPS Admissions Policies](https://cps.northeastern.edu/admissions-aid/admissions-policies/)
+    * [Financial Aid](https://cps.northeastern.edu/admissions-aid/financial-aid/)
+    * [Graduate Admissions](https://cps.northeastern.edu/admissions-aid/graduate-admissions/)
+    * [International Admissions](https://cps.northeastern.edu/admissions-aid/international-admissions/)
+    * [Military Applicants](https://cps.northeastern.edu/admissions-aid/military-applicants/)
+    * [Undergraduate Admissions](https://cps.northeastern.edu/admissions-aid/undergraduate-admissions/)
+  * [CURRENT STUDENTS](https://cps.northeastern.edu/faculty/monica-baraldi-borgida/#)
+    * [Academic Resources](https://cps.northeastern.edu/current-students/)
+    * [Co-op and Experiential Learning](https://cps.northeastern.edu/current-students/co-op/)
+    * [Enrolling at CPS](https://cps.northeastern.edu/current-students/enrolling-at-cps/)
+    * [Graduation](https://commencement.northeastern.edu/events/cps-bachelors-and-masters-graduation-ceremony/)
+    * [Registering for Classes](https://cps.northeastern.edu/current-students/registering-for-classes/)
+    * [Take A Course](https://cps.northeastern.edu/current-students/take-a-course/)
+  * [RESOURCES](https://cps.northeastern.edu/faculty/monica-baraldi-borgida/#)
+    * [Calendar](https://events.cps.northeastern.edu/)
+    * [College Leadership](https://cps.northeastern.edu/about-the-college-of-professional-studies/college-leadership/)
+    * [Giving to the College](https://cps.northeastern.edu/about-the-college-of-professional-studies/giving-to-the-college/)
+    * [Latest News](https://cps.northeastern.edu/latest-news/)
+    * [Our Impact](https://cps.northeastern.edu/about-the-college-of-professional-studies/our-impact/)
+    * [Schools & Centers](https://cps.northeastern.edu/academics/schools-centers/)
+    * [Why CPS](https://cps.northeastern.edu/about-the-college-of-professional-studies/why-cps/)
+
+

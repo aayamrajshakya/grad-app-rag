@@ -1,0 +1,40 @@
+[Skip to content](https://cssh.northeastern.edu/nulab/diti-spring2026-cfp/#content)
+[ Stories](https://cssh.northeastern.edu/nulab/stories)
+[All Stories](https://cssh.northeastern.edu/nulab/category/all-stories/) [News](https://cssh.northeastern.edu/nulab/category/news/) 09.30.25
+# Digital Integration Teaching Initiative Spring 2026 Call for Partnerships
+this is the correct image with higher resolution
+Dear all,
+The Digital Integration Teaching Initiative (DITI) is happy to announce that we are accepting additional partnership requests for Spring 2026please complete this short Google form by November 3, 2025  
+  
+Northeastern is committed to teaching our undergraduates the digital tools, skills, and methods that will enable them to be successful in today’s world. Students consistently report that they find it most useful when new technical skills are part of their disciplinary coursework. The DITI was established to help humanities and social science faculty meet this goal and forward our mission in the experiential liberal arts.  
+  
+We collaborate with social science and humanities faculty to help integrate digital methods and skills in a wide range of classes. The DITI team has expertise in teaching computational text analysis, digital mapping, audio editing and podcasting, data analysis, digital publication, and many other skills and methods—see our [sample modules page](https://cssh.northeastern.edu/nulab/program/diti/modules/samples/) for more.  
+  
+Digital tools and methods can be of particular value in supporting collaboration and partnerships with communities outside the university. We welcome DITI proposals that incorporate teaching and learning focused on community engagement, citizen science, or community co-creation. For more on the ways that digital tools might contribute to community-based projects, see our [Digital Toolkit for Community Projects](https://cssh.northeastern.edu/nulab/program/diti/community-engagement-toolkit/).  
+  
+In order to successfully plan for partnerships in the upcoming term, we request that interested faculty partners:
+  * Fill out the **[DITI call for partnerships form](https://bit.ly/diti-CFP)** by November 3, 2025
+  * Meet with us for an initial consultation by December 1, 2025.
+
+
+Please note: you do not need to know all the details of your course to fill out the form. The DITI team also encourages instructors who do not yet have confirmed teaching assignments to express interest in the program by filling out the form with whatever details are currently available.   
+  
+Once you fill out the form, we will contact you to schedule a consultation, where we will discuss the details of your course and develop a partnership plan. We will also send information on how you can reserve a day or days for the DITI team to visit your class(es). Weeks at the beginning and the middle of semester are historically more popular for class visits and we allocate our visits on a first-come first-served basis. Therefore, if you are interested in those weeks, we recommend that you reserve the dates you are interested in as early as possible.  
+  
+You can learn more about the program at the [DITI website](https://cssh.northeastern.edu/nulab/program/diti/), where you can:
+  * View [sample courses](https://cssh.northeastern.edu/nulab/program/diti/modules/samples/) and [sample student work](https://cssh.northeastern.edu/nulab/program/diti/student-work/)
+  * Review our statement on [Diversity, Equity, Inclusion, and Belonging](https://cssh.northeastern.edu/nulab/program/diti/inclusivity-statement/)
+  * See our collection of [resources for asynchronous teaching and learning](https://cssh.northeastern.edu/nulab/program/diti/resources-for-asynchronous-teaching-and-learning/)
+  * Read our [faculty guidelines](https://cssh.northeastern.edu/nulab/program/diti/partner-with-diti/guidelines/)
+
+
+DITI partnerships may also involve collaborations with the [Boston Area Research Initiative (BARI)](https://cssh.northeastern.edu/bari/), and with the Library’s [Digital Scholarship Group](https://dsg.northeastern.edu/), [Research Data Services](https://library.northeastern.edu/services/research-data-services), and [Recording Studios](https://library.northeastern.edu/administration/creativity-design/recording-studios/) teams.  
+  
+If you have questions, please contact us at nulab.info@gmail.com.  
+  
+We hope to hear from you!  
+  
+~ The DITI Team
+## More Stories
+### [ NULab Faculty John Wihbey Publishes Article in Time Magazine on Social Media Regulation 10.21.2025](https://cssh.northeastern.edu/nulab/nulab-faculty-john-wihbey-time-social-media-regulation/) ### [ NULab Faculty Nicole Aljoe Edited New Cambridge Companion to Mary Prince 10.09.2025](https://cssh.northeastern.edu/nulab/nulab-faculty-nicole-aljoe-edited-new-cambridge-companion-to-mary-prince/)
+### [NULab Grants Fall 2025 CFP 10.28.25 News ](https://cssh.northeastern.edu/nulab/nulab-grants-fall-2025-cfp/)

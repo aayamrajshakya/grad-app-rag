@@ -1,0 +1,2 @@
+#### [Northeastern becomes the first U.S.-based institution of higher learning to be granted ‘university title’ in England by Northeastern Global News Northeastern’s London campus at Devon House. Photo by Suzanne Plunkett for Northeastern University Northeastern…  ](https://phd.northeastern.edu/london/northeastern-becomes-the-first-u-s-based-institution-of-higher-learning-to-be-granted-university-title-in-england/)
+[London](https://phd.northeastern.edu/category/london/)
