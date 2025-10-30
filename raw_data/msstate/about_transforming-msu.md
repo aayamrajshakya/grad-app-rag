@@ -1,0 +1,5 @@
+#  Transforming MSU
+# Transforming MSU
+MSU has made substantial progress in continuing to advance the infusion of engagement in teaching, research and service. MSU’s new transformational plan identifies engagement as one of five major goals for the next 10 years. The Elevate Our Community goal is focused on enhancing the university’s engagement scholarship and service.
+It is based on the _Carnegie Foundation for the Advancement of Teaching_ definition of community engagement as the collaboration between institutions of higher education and their larger communities (local, regional/state, national, and global) for the mutually beneficial exchange of knowledge and resources in a context of partnership and reciprocity. This goal will facilitate university wide efforts to create a stronger ecosystem of engagement by supporting the current and future activities of our faculty, staff, and students. It will foster public access to the university’s expertise and resources and advocate for engaged scholarship locally, regionally, nationally, and internationally. 
+[ Transforming MSU](https://www.msstate.edu/transformation)

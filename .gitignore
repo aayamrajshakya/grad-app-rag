@@ -1,4 +1,2 @@
-rag_env/
+*env/
 __pycache__
-test*
-raw_data/

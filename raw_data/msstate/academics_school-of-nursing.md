@@ -1,0 +1,15 @@
+#  School of Nursing 
+## Preparing Practice-Ready Professional Nurses
+Mississippi State University is preparing a new wave of nurses to meet the unique challenges of a rapidly evolving healthcare industry. Through our newly established School of Nursing and accelerated Master of Science in Nursing (MSN) program, we strive to meet the growing demand for skilled and capable nurses by providing access to exceptional education. From state-of-the-art simulation experiences and strategically designed curriculum to our alliance with healthcare partners statewide, MSU provides the hands-on skills and expert knowledge for graduates to respond quickly to individual and community needs. 
+[ Visit the School of Nursing ](https://nursing.msstate.edu/)
+## College Quick Links
+[ About for Nursing](https://www.nursing.msstate.edu/accelerated-msn/about-program) [ Accreditation for Nursing](https://www.nursing.msstate.edu/accelerated-msn/accreditation) [ Curriculum for Nursing](https://www.nursing.msstate.edu/curriculum) [ Admissions for Nursing](https://www.nursing.msstate.edu/admissions) [ Request Information for Nursing](https://goto.msstate.edu/register/amsn)
+## Recent College News
+## [Second MSN cohort moves through rite of passage in White Coat Ceremony As graduated Master of Science in Nursing students move to fill critical industry roles, Mississippi State University-Meridian has ushered its second cohort through a nursing rite of passage, the White Coat Ceremony. October 07, 2025 ](https://www.meridian.msstate.edu/news/2025/10/second-msn-cohort-moves-through-rite-passage-white-coat-ceremony)
+## [MSU nurses graduate in inaugural pinning, commencement Thirty-four students from Mississippi State University’s inaugural Master of Science in Nursing program were the first to earn their degrees Thursday [Aug. 7] in a historic commencement ceremony at the MSU Riley Center in downtown Meridian. August 07, 2025 ](https://www.msstate.edu/newsroom/article/2025/08/msu-nurses-graduate-inaugural-pinning-commencement)
+## [National accreditation solidifies MSU-Meridian nursing program’s commitment to regional healthcare The Master of Science in Nursing program at Mississippi State University-Meridian has been granted national accreditation—with no compliance concerns—following review by the Commission on Collegiate Nursing Education board of commissioners. June 13, 2025 ](https://www.msstate.edu/newsroom/article/2025/06/national-accreditation-solidifies-msu-meridian-nursing-programs-commitment)
+## [MSU-Meridian nursing student awarded Mississippi Nurses Foundation scholarship Mississippi State University-Meridian School of Nursing graduate student Tasi Ransom is being recognized for her leadership skills with a $1,000 Mississippi Nurses Foundation scholarship.  May 12, 2025 ](https://www.meridian.msstate.edu/news/2025/05/msu-meridian-nursing-student-awarded-mississippi-nurses-foundation-scholarship)
+[More School of Nursing News](https://www.msstate.edu/newsroom/college/nursing)
+  * [ Find Mississippi State University on Youtube](http://www.youtube.com/msstateur/ "Find Mississippi State University on Youtube")
+
+
