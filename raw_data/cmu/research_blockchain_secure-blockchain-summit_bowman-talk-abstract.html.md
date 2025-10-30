@@ -1,0 +1,10 @@
+Talk title
+Multi-party Governance through Confidential Smart Contracts
+Abstract
+Governance in multi-party systems such as federated AI is often a complex mix of bi-lateral contracts, institutional trust and social relationships. While decades of medical research demonstrates that such systems can work, the cost and complexity dramatically limit  
+scale and impact. Working with Medperf, an open benchmarking platform for federated evaluation of medical AI models on private datasets, we developed a governance framework that embeds policy enforcement directly into the benchmarking workflow using TEE-based, confidential smart contracts. Binding data usage policies to isolated task executions allows data owners to maintain control over use of their assets even when they move outside of physical or administrative control. This approach turns out to be useful for solving other multi-party governance problems (e.g. trust networks for decentralized identity, verifiable software supply chain...).
+Bio
+Mic Bowman is a senior principal engineer in the Security Solutions Lab in Intel. Mic has spent over 25 years working on large-scale databases and distributed systems. He joined Intel Labs in 1999 to work on Internet services for search. While at Intel, He developed scalable game technologies, personal information retrieval applications, context-based communication systems, and middleware services for mobile applications. In addition, he led the team that built and deployed the first version of PlanetLab, a global testbed for networking research (awarded Scientific Americans Top 50 technologies in 2003). More recently he served as a member of the Hyperledger Technical Steering Committee for several years contributing to various aspects of architecture definition and evaluation of technologies for privacy and confidentiality. He is currently working on methods for improving the security, scalability, and privacy of blockchains and distributed ledgers. He received his Ph.D. in Computer Science from the University of Arizona. 
+
+Website
+    [Mic Bowman](https://www.intel.com/content/www/us/en/research/researchers/mic-bowman.html)

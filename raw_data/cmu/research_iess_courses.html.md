@@ -1,0 +1,40 @@
+  * [ Intelligent engineered systems and society ](https://cee.engineering.cmu.edu/research/iess/index.html)
+
+
+## Design, construction, and infrastructure management track
+Course | Course Name | Location | Units | Semester Offered | Course Type  
+---|---|---|---|---|---  
+[12-706](https://cee.engineering.cmu.edu/education/course-descriptions/12-706.html) | [Civil Systems Investment Planning and Pricing](https://cee.engineering.cmu.edu/education/course-descriptions/12-706.html) | Pittsburgh | 12 | Fall | Core  
+[12-711](https://cee.engineering.cmu.edu/education/course-descriptions/12-711.html) | [Building Information Modeling (BIM) for Engineering, Construction, and Facility Management](https://cee.engineering.cmu.edu/education/course-descriptions/12-711.html) | Pittsburgh | 12 | Spring | Core  
+[12-741](https://cee.engineering.cmu.edu/education/course-descriptions/12-741.html) | [Data Management](https://cee.engineering.cmu.edu/education/course-descriptions/12-741.html) | Pittsburgh | 6 | Fall | Core  
+[12-768](https://cee.engineering.cmu.edu/education/course-descriptions/12-768.html) | [Decision Analytics for Business and Policy](https://cee.engineering.cmu.edu/education/course-descriptions/12-768.html) | Pittsburgh | 12 | Spring | Core  
+[12-783](https://cee.engineering.cmu.edu/education/course-descriptions/12-783.html) | [Geographic Information Systems](https://cee.engineering.cmu.edu/education/course-descriptions/12-783.html) | Pittsburgh | 12 | Fall | Core  
+[12-735](https://cee.engineering.cmu.edu/education/course-descriptions/12-735e.html) | [Urban System Modeling](https://cee.engineering.cmu.edu/education/course-descriptions/12-735e.html) | Pittsburgh | 12 | Spring | Elective  
+[12-770](https://cee.engineering.cmu.edu/education/course-descriptions/12-770e.html) | [Autonomous Sustainable Buildings](https://cee.engineering.cmu.edu/education/course-descriptions/12-770e.html) | Pittsburgh | 12 | Spring | Elective  
+[12-780](https://cee.engineering.cmu.edu/education/course-descriptions/12-780e.html) | [Special Topics: Advanced Python and Web Prototyping for Infrastructure Systems](https://cee.engineering.cmu.edu/education/course-descriptions/12-780e.html) | Pittsburgh | 6 | Fall | Elective  
+[48-721](https://cee.engineering.cmu.edu/education/course-descriptions/48-721.html) | [Building Controls and Diagnostics](https://cee.engineering.cmu.edu/education/course-descriptions/48-721.html) | Pittsburgh | 12 | Spring | Elective  
+[48-781](https://cee.engineering.cmu.edu/education/course-descriptions/48-781.html) | [Spatial Analysis in Infrastructure Planning](https://cee.engineering.cmu.edu/education/course-descriptions/48-781.html) | Pittsburgh | Variable | Spring | Elective  
+[67-382](https://cee.engineering.cmu.edu/education/course-descriptions/67-382.html) | [Digital Transformation, Strategy and Management](https://cee.engineering.cmu.edu/education/course-descriptions/67-382.html) | Pittsburgh | 9 | Fall | Elective  
+## Dynamical infrastructure system operation track
+Course | Course Name | Location | Units | Semester Offered | Course Type  
+---|---|---|---|---|---  
+[12-704](https://cee.engineering.cmu.edu/education/course-descriptions/12-704.html) | [Probability and Estimation Methods for Engineering Systems](https://cee.engineering.cmu.edu/education/course-descriptions/12-704.html) | Pittsburgh | 12 | Fall | Core  
+[12-735](https://cee.engineering.cmu.edu/education/course-descriptions/12-735.html) | [Urban System Modeling](https://cee.engineering.cmu.edu/education/course-descriptions/12-735.html) | Pittsburgh | 12 | Spring | Core  
+[12-741](https://cee.engineering.cmu.edu/education/course-descriptions/12-741.html) | [Data Management](https://cee.engineering.cmu.edu/education/course-descriptions/12-741.html) | Pittsburgh | 6 | Fall | Core  
+[12-644](https://cee.engineering.cmu.edu/education/course-descriptions/12-644.html) | [Special Topics: Intro to Transportation Systems Analysis](https://cee.engineering.cmu.edu/education/course-descriptions/12-644.html) | Pittsburgh | 6 | Spring | Core  
+[12-645](https://cee.engineering.cmu.edu/education/course-descriptions/12-645.html) | [Smart Cities: Growth and Intelligent Transportation Systems](https://cee.engineering.cmu.edu/education/course-descriptions/12-645.html) | Pittsburgh | 6 | Fall | Core  
+[12-750](https://cee.engineering.cmu.edu/education/course-descriptions/12-750.html) | [Infrastructure Management](https://cee.engineering.cmu.edu/education/course-descriptions/12-750.html) | Pittsburgh | 12 | Spring | Core  
+[12-770](https://cee.engineering.cmu.edu/education/course-descriptions/12-770.html) | [Autonomous Sustainable Buildings](https://cee.engineering.cmu.edu/education/course-descriptions/12-770.html) | Pittsburgh | 12 | Spring | Core  
+[12-774](https://cee.engineering.cmu.edu/education/course-descriptions/12-774.html) | [Foundations of Intelligent Infrastructure Systems](https://cee.engineering.cmu.edu/education/course-descriptions/12-774.html) | Pittsburgh | 12 | Spring | Core  
+[12-780](https://cee.engineering.cmu.edu/education/course-descriptions/12-780e.html) | [Special Topics: Advanced Python and Web Prototyping for Infrastructure Systems](https://cee.engineering.cmu.edu/education/course-descriptions/12-780e.html) | Pittsburgh | 6 | Fall | Elective  
+[10-701](https://cee.engineering.cmu.edu/education/course-descriptions/10-701.html) | [Introduction to Machine Learning](https://cee.engineering.cmu.edu/education/course-descriptions/10-701.html) | Pittsburgh | 12 | Fall, Spring | Elective  
+[17-514](https://cee.engineering.cmu.edu/education/course-descriptions/17-514.html) | [Principles of Software Construction: Objects, Design, and Concurrency](https://cee.engineering.cmu.edu/education/course-descriptions/17-514.html) | Pittsburgh | 12 | Fall, Spring | Elective  
+[18-660](https://cee.engineering.cmu.edu/education/course-descriptions/18-660.html) | [Optimization](https://cee.engineering.cmu.edu/education/course-descriptions/18-660.html) | Pittsburgh | 12 | Spring | Elective  
+[18-780](https://cee.engineering.cmu.edu/education/course-descriptions/18-780e.html) | [Introduction to Deep Learning for Engineers](https://cee.engineering.cmu.edu/education/course-descriptions/18-780e.html) | Pittsburgh | 6 | Spring | Elective  
+[18-785](https://cee.engineering.cmu.edu/education/course-descriptions/18-785.html) | [Data, Inference, and Applied Machine Learning](https://cee.engineering.cmu.edu/education/course-descriptions/18-785.html) | Pittsburgh | 12 | Fall | Elective  
+[24-677](https://cee.engineering.cmu.edu/education/course-descriptions/24-677.html) | [Modern Control Theory](https://cee.engineering.cmu.edu/education/course-descriptions/24-677.html) | Pittsburgh | 12 | Fall | Elective  
+[24-678](https://cee.engineering.cmu.edu/education/course-descriptions/24-678.html) | [Computer Vision for Engineers](https://cee.engineering.cmu.edu/education/course-descriptions/24-678.html) | Pittsburgh | 12 | Fall | Elective  
+[24-771](https://cee.engineering.cmu.edu/education/course-descriptions/24-771e.html) | [Linear Systems Theory](https://cee.engineering.cmu.edu/education/course-descriptions/24-771e.html) | Pittsburgh | 12 | Fall | Elective  
+[48-676](https://cee.engineering.cmu.edu/education/course-descriptions/48-676.html) | [Connected Communities: Technology, Publics, Politics, and Participation](https://cee.engineering.cmu.edu/education/course-descriptions/48-676.html) | Pittsburgh | 6 | Fall | Elective  
+[67-382](https://cee.engineering.cmu.edu/education/course-descriptions/67-382.html) | [Digital Transformation, Strategy and Management](https://cee.engineering.cmu.edu/education/course-descriptions/67-382.html) | Pittsburgh | 9 | Fall | Elective  
+[95-702](https://cee.engineering.cmu.edu/education/course-descriptions/95-702.html) | [Distributed Systems for Information Systems Management](https://cee.engineering.cmu.edu/education/course-descriptions/95-702.html) | Pittsburgh | 12 | Fall, Spring | Elective

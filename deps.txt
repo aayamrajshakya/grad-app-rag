@@ -1,8 +1,1 @@
-ipykernel   # for jupyter
-langchain_text_splitters
-langchain_huggingface
-sentence-transformers
-langchain_community
-faiss-cpu   # GPU version doesn't work for some reason
-streamlit
 crawl4ai

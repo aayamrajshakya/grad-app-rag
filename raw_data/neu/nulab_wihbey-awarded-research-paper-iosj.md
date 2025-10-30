@@ -1,0 +1,12 @@
+[Skip to content](https://cssh.northeastern.edu/nulab/wihbey-awarded-research-paper-iosj/#content)
+[ Stories](https://cssh.northeastern.edu/nulab/stories)
+[News](https://cssh.northeastern.edu/nulab/category/news/) 04.25.17
+# NULab Core Faculty Member John Wihbey Awarded Top Rated Research Paper at IOSJ
+this is the correct image with higher resolution
+We are delighted to report that John Wihbey’s paper, “[Knowing the Numbers: Assessing Attitudes among Journalists and Educators about Using and Interpreting Data, Statistics, and Research](http://isoj.org/research/knowing-the-numbers-assessing-attitudes-among-journalists-and-educators-about-using-and-interpreting-data-statistics-and-research/)” co-authored with Mark Coddington, won Top Rated Research Paper at the International Symposium on Online Journalism (ISOJ) in Austin (April 21/22). Wihbey’s presentation at ISOJ was supported by a [NULab travel grant](https://cssh.northeastern.edu/nulab/research/seedling-grants/).
+Read more about the panel [here](http://www.isoj.org/academics-present-isoj-2017-research-on-new-practices-in-newsrooms-using-technology/) and view the talk [here](https://youtu.be/x-S_Iadt11g?t=5h49m18s).
+Paper abstract
+Understanding statistics and quantitative information is becoming increasingly important to journalism practice. Drawing on survey data that includes more than 1,000 journalists and 400 journalism educators, this study offers a unique comparative perspective on the attitudes of both journalists and educators. Journalists are found to see more value in the use of academic research in journalism, while differences between the groups are not significant on the importance of statistics. Among journalism educators, personal statistical efficacy, rather than possession of a doctorate, best helps predict attitudes in these domains. Implications for data journalism are discussed.
+## More Stories
+### [ NULab Faculty John Wihbey Publishes Article in Time Magazine on Social Media Regulation 10.21.2025](https://cssh.northeastern.edu/nulab/nulab-faculty-john-wihbey-time-social-media-regulation/) ### [ NULab Faculty Nicole Aljoe Edited New Cambridge Companion to Mary Prince 10.09.2025](https://cssh.northeastern.edu/nulab/nulab-faculty-nicole-aljoe-edited-new-cambridge-companion-to-mary-prince/)
+### [NULab Grants Fall 2025 CFP 10.28.25 News ](https://cssh.northeastern.edu/nulab/nulab-grants-fall-2025-cfp/)

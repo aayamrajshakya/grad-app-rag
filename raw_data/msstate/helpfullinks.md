@@ -1,0 +1,46 @@
+Good morning , ! 
+# 
+#  Helpful Links
+[**2025 Fall Convocation** &amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;gt;](https://msstate.instructuremedia.com/embed/512e692a-aa1b-41ce-864a-2c5e67b69a98)
+##  [](https://my.msstate.edu/)
+Search for pages and resources
+Reset
+[College of Agriculture and Life Sciences](http://www.cals.msstate.edu/)   
+[College of Architecture, Art, and Design](https://www.caad.msstate.edu/)   
+[College of Arts and Sciences](https://www.cas.msstate.edu/)  
+[College of Business](http://business.msstate.edu/)   
+
+[College of Education](http://www.educ.msstate.edu/)  
+[College of Forest Resources](http://www.cfr.msstate.edu/)   
+[College of Veterinary Medicine ](http://www.cvm.msstate.edu/)   
+[James Worth Bagley College of Engineer](http://www.engr.msstate.edu/)   
+[Shackouls Honors College](http://www.honors.msstate.edu/)
+[Overview](https://www.admissions.msstate.edu/visit/academic-insight/#title--overview-for-academic-insight)  
+[Upcoming Events](https://www.admissions.msstate.edu/visit/academic-insight/#title--upcoming-events-for-academic-insight)  
+[Things To Bring](https://www.admissions.msstate.edu/visit/academic-insight/#title--what-to-bring-to-academic-insight)
+[Prospective Students](https://www.admissions.msstate.edu/prospective-students)  
+[Admitted Students](https://www.admissions.msstate.edu/admitted-students)  
+[Academics](https://www.admissions.msstate.edu/academics)  
+[Enrollment/Orientation](https://www.admissions.msstate.edu/enrollment)  
+[Scholarships](https://www.admissions.msstate.edu/scholarships)
+### College Ready
+[Apply Now](https://mybanner.msstate.edu/BannerExtensibility/customPage/page/msuStudentCollegeReadyApplication)  
+[Courses](https://www.collegeready.msstate.edu/courses)  
+[Important Dates](https://www.collegeready.msstate.edu/importantdates)  
+[Cost](https://www.collegeready.msstate.edu/cost)  
+[FAQs](https://www.collegeready.msstate.edu/faq)
+[About Us](https://www.students.msstate.edu/about/)  
+[Ticket Appeals](https://www.students.msstate.edu/ticket-appeals/)  
+[Student Conduct](https://www.students.msstate.edu/student-conduct/)  
+[Student Resources](https://www.msstate.edu/students/publications-policies/student-policies)
+[Meal Plans](https://msstatedining.campusdish.com/MealPlans)  
+[Locations and Menus](https://msstatedining.campusdish.com/LocationsAndMenus)  
+[Find Your Fit](https://msstatedining.campusdish.com/MealPlans/FindYourFit)  
+[Health & Wellness](https://msstatedining.campusdish.com/HealthAndWellness)  
+[Contact Us](https://msstatedining.campusdish.com/ContactUs)
+### Financial Aid
+[How to Apply](https://www.sfa.msstate.edu/steps-to-apply/)  
+[Types of Aid](https://www.sfa.msstate.edu/types-of-aid/)  
+[Loan Information](https://www.sfa.msstate.edu/loans/)  
+[Resources](https://www.sfa.msstate.edu/resources/)  
+[Accept/Decline Financial Aid](https://mybanner.msstate.edu/BannerExtensibility/customPage/page/msuFAAcceptDeclineAwards)

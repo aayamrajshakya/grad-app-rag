@@ -1,0 +1,18 @@
+[ Image Alternative Text:  Communication Kudos: September 2025 ](https://mailchi.mp/61340a125311/communication-kudos-may-10137101?e=283f5f8c9e)
+[ Image Alternative Text:  Communication Kudos: May 2025 ](https://us5.campaign-archive.com/?e=__test_email__&u=5cb7696177282bb3a3bf85a46&id=583b7a6c53)
+[ Image Alternative Text:  Communication Kudos: April 2025 ](https://us5.campaign-archive.com/?e=__test_email__&u=5cb7696177282bb3a3bf85a46&id=583b7a6c53)
+[ Image Alternative Text:  Communication Kudos: March 2025 ](https://mailchi.mp/f2c1c1180e9d/communication-kudos-march-2025?e=283f5f8c9e)
+[ Image Alternative Text:  Communication Kudos: Fall 2024 ](https://us5.campaign-archive.com/?e=__test_email__&u=5cb7696177282bb3a3bf85a46&id=08e4fc5bdb)
+[ Image Alternative Text:  Communication Kudos: April 2024 ](https://mailchi.mp/1fd95e3b7f0a/communication-kudos?e=%5BUNIQID%5D)
+[ Image Alternative Text:  Communication Kudos: March 2024 ](https://mailchi.mp/83348a2be783/march-communication-kudos?e=283f5f8c9e)
+[ Image Alternative Text:  Communication Kudos: February 2024 ](https://mailchi.mp/c1c635afbf02/february-communication-kudos?e=283f5f8c9e)
+[ Image Alternative Text:  Communication Kudos: November 2023 ](https://mailchi.mp/1fd010c8ade5/communication-kudos-novemberdecember-2023?e=283f5f8c9e)
+[ Image Alternative Text:  Communication Kudos: October 2023 ](https://mailchi.mp/115b404c171a/communication-kudos-october-2023?e=283f5f8c9e)
+[ Image Alternative Text:  Communication Kudos: September 2023 ](https://mailchi.mp/db767de93be2/communication-kudos-september-2023?e=0037f84b2b)
+[ Image Alternative Text:  Communication Kudos: April 2023 ](https://mailchi.mp/47735a80e927/september-2022-communication-kudos-9328253?e=283f5f8c9e)
+[ Image Alternative Text:  Communication Kudos: February 2023 ](https://mailchi.mp/4a8de33455c9/september-2022-communication-kudos-9300305?e=283f5f8c9e)
+[ Image Alternative Text:  Communication Kudos: November 2022 ](https://mailchi.mp/4a89fcfb1b7a/september-2022-communication-kudos-9212957?e=0037f84b2b)
+[ Image Alternative Text:  Communication Kudos: October 2022 ](https://mailchi.mp/db3067aabb47/september-2022-communication-kudos-9183049?e=283f5f8c9e)
+  * [ Find Department of Communication on YouTube](https://www.youtube.com/channel/UCWMcjIrdi3DdGoAwI01OFlA?app=desktop "Find Department of Communication on YouTube")
+
+

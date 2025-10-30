@@ -1,0 +1,3 @@
+[Skip to main content](https://hsrp.research.northeastern.edu/updated-non-exempt-application-form/#main_content)
+Update: Minor revisions were made to the Non-Exempt Application Form on October 23, 2025. These updates addressed formatting issues and refined the section on physiological measurements, separating checkboxes for those routinely employed in clinical practice from those not routinely employed.
+We strongly recommend downloading forms directly from our website to ensure you are using the most current version. However, studies that are currently being developed or written do not need to transition to the new form.

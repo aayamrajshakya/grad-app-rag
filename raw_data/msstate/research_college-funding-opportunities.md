@@ -1,0 +1,3 @@
+#  College Funding Opportunities
+# College Funding Opportunities
+[ Faculty Seed Funding ](https://webapps.its.msstate.edu/cas/rfp/sri-faculty/) [ ACADEX Faculty Travel Support ](https://webapps.its.msstate.edu/cas/cfo/travel/acadex/) [ Graduate Student Travel Support ](https://webapps.its.msstate.edu/cas/cfo/travel/grad/) [ Student First Undergraduate Excellence Opportunity (SFUEO) ](https://webapps.its.msstate.edu/cas/cfo/sfueo/) [ Institute for the Humanities Fellowship Program ](https://webapps.its.msstate.edu/cas/rfp/ihfp/) [ Professional Development in Teaching Program ](https://webapps.its.msstate.edu/cas/cfo/travel/pdtg/index.php)

@@ -1,0 +1,3 @@
+#  Academic Programs
+## Academic Programs
+[ Image Alternative Text: Lincoln Memorial Ph.D. ](https://www.pspa.msstate.edu/academic-programs/phd) [ Image Alternative Text: United Nations flags MPPA ](https://www.pspa.msstate.edu/academic-programs/mppa) [ Image Alternative Text: Close up of Statue of Liberty MA ](https://www.pspa.msstate.edu/academic-programs/ma) [ Image Alternative Text: U.S. Capitol exterior BA ](https://www.pspa.msstate.edu/academic-programs/ba) [ Image Alternative Text: Stennis Montgomery bust in library Minors ](https://www.pspa.msstate.edu/academic-programs/minors-certificates)

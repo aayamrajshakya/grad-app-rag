@@ -1,0 +1,9 @@
+Talk title
+Private Verifiable Credentials for Age Assurance and Other Scenarios
+Abstract
+In this talk we describe our ongoing research into privacy-preserving age and credential checking based on private validation of Identity Documents (IDs), including integration with other decentralized identity efforts including Verifiable Credentials and Decentralized Identifiers. As many jurisdictions, including twenty-five U.S. States, have implemented new age assurance policies for online content, one popular approach to age assurance is to use identity documents (IDs). IDs can also be used to verify other attributes including residency, status as "not a robot", and more. Naive ID-based verification carries significant privacy costs and increases the risk of identity theft, since this method encourages widespread transmission and collection of prototypical Personally Identifiable Information (PII). At the same time, the creation of new standards for private ID-based age verification presents an opportunity to build privacy-respecting infrastructure for many kinds of ID-based credential checks, especially those based upon cryptographic Zero-Knowledge Proofs (ZKPs). However, the devil is in the details. Our existing work involves making privacy-preserving ID checks compatible with legacy ID systems, enabling systems compatible with DIDs or credentials stored on the XRPL chain, and analyzing the policy and law surrounding privacy in credential checking. Ongoing work involves widening compatibility of ID based checks with physical ID cards or liveness checks.
+Bio
+Liu is a first year Societal Computing Ph.D. student in the School of Computer Science at Carnegie Mellon University (CMU), advised by Sarah Scheffler. She is a member of CyLab, the security and privacy institute at CMU. 
+
+Website
+    [ Shuang Liu](https://sc.cs.cmu.edu/people/students/liu-shuang.html)

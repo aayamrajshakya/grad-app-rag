@@ -1,0 +1,20 @@
+[Skip to content](https://cssh.northeastern.edu/boston-becomes-experiential-learning-lab-in-northeastern-humanities-institute/#content)
+Close [ Navigating a New Political Landscape: View real-time updates about the impact of and Northeastern’s response to recent political changes. ](https://news.northeastern.edu/new-political-landscape-faq/ "View the FAQs")
+[Apply](https://cssh.northeastern.edu/apply/) [ Stories](https://cssh.northeastern.edu/stories)
+[All Stories](https://cssh.northeastern.edu/category/all-stories/) [Northeastern Global News](https://cssh.northeastern.edu/category/northeastern-global-news/) 07.18.22
+# Boston becomes experiential learning lab in Northeastern Humanities Institute
+## People in this story
+  * [ Ángel David Nieves ](https://cssh.northeastern.edu/faculty/angel-david-nieves/)
+  * [ Serena Parekh ](https://cssh.northeastern.edu/faculty/serena-parekh/)
+  * [ Uta Poiger ](https://cssh.northeastern.edu/faculty/uta-poiger/)
+  * [ Liza Weinstein ](https://cssh.northeastern.edu/faculty/liza-weinstein/)
+
+
+What was Boston’s role in the slave trade? If you took a tour of the city, how would you know? The answer might surprise you: A single [plaque at the end of the Long Wharf](https://www.baystatebanner.com/2020/11/05/middle-passage-memorial-marker-acknowledges-bostons-history-of-slavery/) memorializes Boston’s place in the Middle Passage. 
+The understated memorial is a testament to “how bad of a job we do noting that slave ships landed in the Seaport area and brought thousands of slaves in the United States,” says [Serena Parekh](https://cssh.northeastern.edu/faculty/serena-parekh/), professor of philosophy at Northeastern’s [College of Social Sciences and the Humanities](https://cssh.northeastern.edu/). “I had no idea even though I’ve lived here for 22 years now.”
+The monument became an important symbol for scholars who took a tour of the city this month as part of the three-week Engaging Geography in the Humanities Institute. Funded by the National Endowment for the Humanities and held on Northeastern’s Boston campus, the Institute brought together 25 scholars from across the country for presentations, excursions in the Boston area and hands-on workshops. The goal was to teach scholars who study history, philosophy, literature and other humanities disciplines how to integrate geography and ideas of space into their teaching and research, using the city of Boston itself as a case study.
+The Institute, which was a follow-up from one held in 2017, was entirely Northeastern-led, with Parekh, professor of Africana Studies [Angel Nieves](https://cssh.northeastern.edu/faculty/angel-david-nieves/), and associate professor of Sociology [Liza Weinstein](https://cssh.northeastern.edu/faculty/liza-weinstein/) acting as co-directors. [Uta Poiger](https://cssh.northeastern.edu/faculty/uta-poiger/), the dean of the College of Social Sciences and Humanities, gave the opening address, emphasizing the institute’s alignment with the university’s mission. 
+[Continue reading at News@Northeastern.](https://news.northeastern.edu/2022/07/12/humanities-institute/?utm_source=External+News%40Northeastern+Audience&utm_campaign=52a7ade8d4-EMAIL_CAMPAIGN_2022_03_03_02_54_COPY_01&utm_medium=email&utm_term=0_73fbbd3f61-52a7ade8d4-278815307)
+## More Stories
+### [ How Congress shaped Puerto Rico’s status — and its struggle for equality 10.28.2025](https://cssh.northeastern.edu/how-congress-shaped-puerto-ricos-status-and-its-struggle-for-equality/) ### [ Experts warn SNAP disruptions could strain food banks, deepen hardship and rattle supply chains 10.28.2025](https://cssh.northeastern.edu/experts-warn-snap-disruptions-could-strain-food-banks-deepen-hardship-and-rattle-supply-chains/)
+### [Hurricane Melissa brought floods, storm surges and high winds to Jamaica Tuesday, pushing the island nation to the brink of catastrophe. 10.30.25 All Stories ](https://cssh.northeastern.edu/hurricane-melissa-brought-floods-storm-surges-and-high-winds-to-jamaica-tuesday-pushing-the-island-nation-to-the-brink-of-catastrophe/)

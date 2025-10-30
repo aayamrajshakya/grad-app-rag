@@ -1,0 +1,8 @@
+[Skip to content](https://sealab.sites.northeastern.edu/portfolio/moving-towards-epistemic-autonomy-a-paradigm-shift-for-centering-participant-knowledge/#content)
+Justice, epistemology, and marginalization are rich areas of study in HCI. And yet, we repeatedly find platforms and algorithms that push communities further into the margins. In this paper, we propose epistemic autonomy–—one’s ability to govern knowledge about themselves—as a necessary HCI paradigm for working with marginalized communities. We establish epistemic autonomy by applying the transfeminine principle of autonomy to the problem of epistemic injustice. To articulate the harm of violating one’s epistemic autonomy, we present six stories from two trans women: (1) a transfem online administrator and (2) a transfem researcher. We then synthesize our definition of epistemic autonomy in research into a research paradigm. Finally, we present two variants of common HCI methods, autoethnography and asynchronous remote communities, that stem from these beliefs. We discuss how CHI is uniquely situated to champion this paradigm and, thereby, the epistemic autonomy of our research participants.
+[Read Author Copy](https://arxiv.org/pdf/2501.14648)
+[Version of Record](https://doi.org/10.1145/3706598.3714252)
+### Citation
+Leah Hope Ajmani, Talia Bhatt, and Michael Ann DeVito. 2025. Moving Towards Epistemic Autonomy: A Paradigm Shift for Centering Participant Knowledge. CHI Conference on Human Factors in Computing Systems (CHI ’25), <https://doi.org/10.1145/3706598.3714252>
+close menu
+close search

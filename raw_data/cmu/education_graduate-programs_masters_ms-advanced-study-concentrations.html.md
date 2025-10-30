@@ -1,0 +1,70 @@
+All students enrolled in the M.S. in Mechanical Engineering – Advanced Study degree program are required to choose one of the concentrations listed on this page or they may petition the Department of Mechanical Engineering to develop an approved, self-defined concentration. For more information, **[schedule a meeting](https://meetme.so/MechEAdvisors)** with your academic advisor. Return to listing of **[graduate courses](https://www.meche.engineering.cmu.edu/education/graduate-programs/graduate-courses.html)**.
+## Design and manufacturing of mechanical systems
+Course | Course Name | Location | Units | Semester Offered  
+---|---|---|---|---  
+[24-632](https://www.meche.engineering.cmu.edu/education/courses/24-632.html) | [Special Topics: Additive Manufacturing Processing and Product Development](https://www.meche.engineering.cmu.edu/education/courses/24-632.html) | Pittsburgh | 12 | Fall  
+[24-633](https://www.meche.engineering.cmu.edu/education/courses/24-633.html) | [Additive Manufacturing Laboratory](https://www.meche.engineering.cmu.edu/education/courses/24-633.html) | Pittsburgh | 12 | Spring  
+[24-634](https://www.meche.engineering.cmu.edu/education/courses/24-634.html) | [Structural Design](https://www.meche.engineering.cmu.edu/education/courses/24-634.html) | Pittsburgh | 12 | Spring  
+[24-635](https://www.meche.engineering.cmu.edu/education/courses/24-635.html) | [Structural Analysis](https://www.meche.engineering.cmu.edu/education/courses/24-635.html) | Pittsburgh | 9 | Fall  
+[24-650](https://www.meche.engineering.cmu.edu/education/courses/24-650.html) | [Special Topics in Applied Finite Element Analysis](https://www.meche.engineering.cmu.edu/education/courses/24-650.html) | Pittsburgh | 12 | Fall, Intermittent, Spring  
+[24-651](https://www.meche.engineering.cmu.edu/education/courses/24-651.html) | [Material Selection for Mechanical Engineers](https://www.meche.engineering.cmu.edu/education/courses/24-651.html) | Pittsburgh | 12 | Spring  
+[24-652](https://www.meche.engineering.cmu.edu/education/courses/24-652.html) | [Special Topics: Mechanical Properties of Engineering Materials](https://www.meche.engineering.cmu.edu/education/courses/24-652.html) | Pittsburgh | 12 | Fall  
+[24-653](https://www.meche.engineering.cmu.edu/education/courses/24-653.html) | [Special Topics: Materials and Their Processing for Mechanical Engineers](https://www.meche.engineering.cmu.edu/education/courses/24-653.html) | Pittsburgh | 12 | Spring  
+[24-661](https://www.meche.engineering.cmu.edu/education/courses/24-661.html) | [Introduction to Vibrations with Applications ](https://www.meche.engineering.cmu.edu/education/courses/24-661.html) | Pittsburgh | 12 | Fall  
+[24-671](https://www.meche.engineering.cmu.edu/education/courses/24-671.html) | [Special Topics: Electromechanical Systems Design](https://www.meche.engineering.cmu.edu/education/courses/24-671.html) | Pittsburgh | 12 | Fall, Spring  
+[24-672](https://www.meche.engineering.cmu.edu/education/courses/24-672.html) | [Special Topics in DIY Design and Fabrication](https://www.meche.engineering.cmu.edu/education/courses/24-672.html) | Pittsburgh | 12 | Fall  
+[24-680](https://www.meche.engineering.cmu.edu/education/courses/24-680.html) | [Quantitative Entrepreneurship: Analysis for New Technology Commercialization](https://www.meche.engineering.cmu.edu/education/courses/24-680.html) | Pittsburgh | 12 | Intermittent  
+[24-683](https://www.meche.engineering.cmu.edu/education/courses/24-683.html) | [Design for Manufacture and the Environment](https://www.meche.engineering.cmu.edu/education/courses/24-683.html) | Pittsburgh | 12 | Fall  
+[24-686](https://www.meche.engineering.cmu.edu/education/courses/24-686.html) | [Special Topics in Advanced Mechanical Design](https://www.meche.engineering.cmu.edu/education/courses/24-686.html) | Pittsburgh | 12 | Fall  
+[24-688](https://www.meche.engineering.cmu.edu/education/courses/24-688.html) | [Introduction to CAD and CAE Tools](https://www.meche.engineering.cmu.edu/education/courses/24-688.html) | Pittsburgh | 12 | Fall  
+[24-689](https://www.meche.engineering.cmu.edu/education/courses/24-689.html) | [Special Topics: Modern Manufacturing in Steeltown](https://www.meche.engineering.cmu.edu/education/courses/24-689.html) | Pittsburgh | 12 | Spring  
+[24-751](https://www.meche.engineering.cmu.edu/education/courses/24-751.html) | [Introduction to Solid Mechanics I](https://www.meche.engineering.cmu.edu/education/courses/24-751.html) | Pittsburgh | 12 | Fall  
+[24-753](https://www.meche.engineering.cmu.edu/education/courses/24-753.html) | [Special Topics: Principles of Soft-Matter Machines & Electronics](https://www.meche.engineering.cmu.edu/education/courses/24-753.html) | Pittsburgh | 12 | Fall, Spring  
+[24-755](https://www.meche.engineering.cmu.edu/education/courses/24-755.html) | [Finite Element Method in Mechanics I](https://www.meche.engineering.cmu.edu/education/courses/24-755.html) | Pittsburgh | 12 | Fall, Intermittent  
+[24-757](https://www.meche.engineering.cmu.edu/education/courses/24-757.html) | [Vibrations](https://www.meche.engineering.cmu.edu/education/courses/24-757.html) | Pittsburgh | 12 | Spring  
+[24-760](https://www.meche.engineering.cmu.edu/education/courses/24-760.html) | [Special Topics: Robot Dynamics and Analysis](https://www.meche.engineering.cmu.edu/education/courses/24-760.html) | Pittsburgh | 12 | Fall, Spring  
+[24-775 ](https://www.meche.engineering.cmu.edu/education/courses/24-775%20.html) | [Special Topics: Robot Design & Experimentation](https://www.meche.engineering.cmu.edu/education/courses/24-775%20.html) | Pittsburgh | 12 | Spring  
+## Energy and thermal fluid systems
+Course | Course Name | Location | Units | Semester Offered  
+---|---|---|---|---  
+[24-618](https://www.meche.engineering.cmu.edu/education/courses/24-618.html) | [Special Topics: Computational Analysis of Transport Phenomena](https://www.meche.engineering.cmu.edu/education/courses/24-618.html) | Pittsburgh | 12 | Spring  
+[24-623](https://www.meche.engineering.cmu.edu/education/courses/24-623.html) | [Molecular Simulation of Materials](https://www.meche.engineering.cmu.edu/education/courses/24-623.html) | Pittsburgh | 12 | Intermittent, Spring  
+[24-626](https://www.meche.engineering.cmu.edu/education/courses/24-626.html) | [Air Quality Engineering](https://www.meche.engineering.cmu.edu/education/courses/24-626.html) | Pittsburgh | 12 | Intermittent  
+[24-628](https://www.meche.engineering.cmu.edu/education/courses/24-628.html) | [Energy Transport and Conversion at the Nanoscale](https://www.meche.engineering.cmu.edu/education/courses/24-628.html) | Pittsburgh | 12 | Spring  
+[24-629](https://www.meche.engineering.cmu.edu/education/courses/24-629.html) | [Direct Solar and Thermal Energy Conversion](https://www.meche.engineering.cmu.edu/education/courses/24-629.html) | Pittsburgh | 12 | Intermittent, Spring  
+[24-631](https://www.meche.engineering.cmu.edu/education/courses/24-631.html) | [Thermal Design](https://www.meche.engineering.cmu.edu/education/courses/24-631.html) | Pittsburgh | 12 | Spring  
+[24-640](https://www.meche.engineering.cmu.edu/education/courses/24-640.html) | [Climate Change Mitigation](https://www.meche.engineering.cmu.edu/education/courses/24-640.html) | Pittsburgh | 12 | Intermittent  
+[24-642](https://www.meche.engineering.cmu.edu/education/courses/24-642.html) | [Fuel Cell Systems](https://www.meche.engineering.cmu.edu/education/courses/24-642.html) | Pittsburgh | 12 | Fall  
+[24-643](https://www.meche.engineering.cmu.edu/education/courses/24-643.html) | [Special Topics: Electrochemical Energy Storage Systems](https://www.meche.engineering.cmu.edu/education/courses/24-643.html) | Pittsburgh | 12 | Intermittent  
+[24-711](https://www.meche.engineering.cmu.edu/education/courses/24-711.html) | [Fluid Dynamics](https://www.meche.engineering.cmu.edu/education/courses/24-711.html) | Pittsburgh | 12 | Intermittent  
+[24-718](https://www.meche.engineering.cmu.edu/education/courses/24-718.html) | [Computational Fluid Dynamics](https://www.meche.engineering.cmu.edu/education/courses/24-718.html) | Pittsburgh | 12 | Intermittent  
+[24-721](https://www.meche.engineering.cmu.edu/education/courses/24-721.html) | [Advanced Thermodynamics](https://www.meche.engineering.cmu.edu/education/courses/24-721.html) | Pittsburgh | 12 | Intermittent  
+[24-722](https://www.meche.engineering.cmu.edu/education/courses/24-722.html) | [Energy System Modeling](https://www.meche.engineering.cmu.edu/education/courses/24-722.html) | Pittsburgh | 12 | Fall  
+[24-730](https://www.meche.engineering.cmu.edu/education/courses/24-730.html) | [Advanced Heat Transfer](https://www.meche.engineering.cmu.edu/education/courses/24-730.html) | Pittsburgh | 12 | Fall  
+[24-740](https://www.meche.engineering.cmu.edu/education/courses/24-740.html) | [Combustion and Air Pollution Control](https://www.meche.engineering.cmu.edu/education/courses/24-740.html) | Pittsburgh | 12 | Intermittent  
+[39-610](https://www.meche.engineering.cmu.edu/education/courses/39-610.html) | [Energy Conversion and Supply](https://www.meche.engineering.cmu.edu/education/courses/39-610.html) | Pittsburgh | 6 | Fall  
+[39-611](https://www.meche.engineering.cmu.edu/education/courses/39-611.html) | [Energy Demand and Utilization](https://www.meche.engineering.cmu.edu/education/courses/39-611.html) | Pittsburgh | 6 | Spring  
+[39-612](https://www.meche.engineering.cmu.edu/education/courses/39-612.html) | [Energy Policy and Economics](https://www.meche.engineering.cmu.edu/education/courses/39-612.html) | Pittsburgh | 6 | Spring  
+[39-613](https://www.meche.engineering.cmu.edu/education/courses/39-613.html) | [Energy Transport and Storage](https://www.meche.engineering.cmu.edu/education/courses/39-613.html) | Pittsburgh | 6 | Fall  
+## Robotic and control systems
+Course | Course Name | Location | Units | Semester Offered  
+---|---|---|---|---  
+[24-614](https://www.meche.engineering.cmu.edu/education/courses/24-614.html) | [Microelectromechanical Systems](https://www.meche.engineering.cmu.edu/education/courses/24-614.html) | Pittsburgh | 12 | Intermittent  
+[24-662](https://www.meche.engineering.cmu.edu/education/courses/24-662.html) | [Special Topics: Robotic Systems and Internet of Things](https://www.meche.engineering.cmu.edu/education/courses/24-662.html) | Pittsburgh | 12 | Spring  
+[24-671](https://www.meche.engineering.cmu.edu/education/courses/24-671.html) | [Special Topics: Electromechanical Systems Design](https://www.meche.engineering.cmu.edu/education/courses/24-671.html) | Pittsburgh | 12 | Fall, Spring  
+[24-673](https://www.meche.engineering.cmu.edu/education/courses/24-673.html) | [Soft Robots: Mechanics, Design and Modeling](https://www.meche.engineering.cmu.edu/education/courses/24-673.html) | Pittsburgh | 12 | Spring  
+[24-677](https://www.meche.engineering.cmu.edu/education/courses/24-677.html) | [Special Topics: Linear Control Systems](https://www.meche.engineering.cmu.edu/education/courses/24-677.html) | Pittsburgh | 12 | Intermittent  
+[24-760](https://www.meche.engineering.cmu.edu/education/courses/24-760.html) | [Special Topics: Robot Dynamics and Analysis](https://www.meche.engineering.cmu.edu/education/courses/24-760.html) | Pittsburgh | 12 | Fall, Spring  
+[24-771](https://www.meche.engineering.cmu.edu/education/courses/24-771.html) | [Linear Systems](https://www.meche.engineering.cmu.edu/education/courses/24-771.html) | Pittsburgh | 12 | Fall  
+[24-773](https://www.meche.engineering.cmu.edu/education/courses/24-773.html) | [Special Topics Multivariable Linear Control](https://www.meche.engineering.cmu.edu/education/courses/24-773.html) | Pittsburgh | 12 | Spring  
+[24-774](https://www.meche.engineering.cmu.edu/education/courses/24-774.html) | [Special Topics: Advanced Control Systems Integration](https://www.meche.engineering.cmu.edu/education/courses/24-774.html) | Pittsburgh | 12 | Fall  
+[24-775 ](https://www.meche.engineering.cmu.edu/education/courses/24-775%20.html) | [Special Topics: Robot Design & Experimentation](https://www.meche.engineering.cmu.edu/education/courses/24-775%20.html) | Pittsburgh | 12 | Spring  
+[24-776](https://www.meche.engineering.cmu.edu/education/courses/24-776.html) | [Nonlinear Controls](https://www.meche.engineering.cmu.edu/education/courses/24-776.html) | Pittsburgh | 12 | Spring  
+[24-778](https://www.meche.engineering.cmu.edu/education/courses/24-778.html) | [Mechatronic Design](https://www.meche.engineering.cmu.edu/education/courses/24-778.html) | Pittsburgh | 12 | Spring  
+[16-711](https://www.meche.engineering.cmu.edu/education/courses/16-711.html) | [Kinematics, Dynamic Systems, and Controls](https://www.meche.engineering.cmu.edu/education/courses/16-711.html) | Pittsburgh | 12 | Spring  
+[16-720](https://www.meche.engineering.cmu.edu/education/courses/16-720.html) | [Computer Vision](https://www.meche.engineering.cmu.edu/education/courses/16-720.html) | Pittsburgh | 12 | Fall, Spring  
+[16-722](https://www.meche.engineering.cmu.edu/education/courses/16-722.html) | [Sensing and Sensors](https://www.meche.engineering.cmu.edu/education/courses/16-722.html) | Pittsburgh | 12 | Intermittent  
+[16-741](https://www.meche.engineering.cmu.edu/education/courses/16-741.html) | [Mechanics of Manipulation](https://www.meche.engineering.cmu.edu/education/courses/16-741.html) | Pittsburgh | 12 | Fall  
+[16-861](https://www.meche.engineering.cmu.edu/education/courses/16-861.html) | [Mobile Robot Design](https://www.meche.engineering.cmu.edu/education/courses/16-861.html) | Pittsburgh | 12 | Fall  
+[16-865](https://www.meche.engineering.cmu.edu/education/courses/16-865.html) | [Advanced Mobile Robot Design](https://www.meche.engineering.cmu.edu/education/courses/16-865.html) | Pittsburgh | 12 | Spring  
+[16-868](https://www.meche.engineering.cmu.edu/education/courses/16-868.html) | [Biomechanics and Motor Control](https://www.meche.engineering.cmu.edu/education/courses/16-868.html) | Pittsburgh | 12 | Fall

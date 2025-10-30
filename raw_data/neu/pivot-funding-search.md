@@ -1,0 +1,14 @@
+# Organize Your Search for Research Funding
+Use searchable databases to access funding and collaboration opportunities
+### Northeastern researchers have access to several powerful tools to identify funding opportunities tailored to their expertise and personal profile.
+###  Search with Pivot
+[Pivot](https://pivot.proquest.com/funding_main) is a searchable database of funding public and private funding opportunities and prizes, accessible to all Northeastern affiliates across all disciplines. Users can create customized searches and receive weekly email reports of new opportunities, or receive alerts for tracked opportunities. Additionally, users may curate their personal researcher profiles in Pivot to obtain reports on funding opportunities matched to their expertise and qualifications. Users must sign in using their Northeastern credentials. 
+Visit the[Pivot YouTube](https://www.youtube.com/user/ProQuestPivot)[one-page user guide](https://resdev.northeastern.edu/files/2024/06/Northeastern_pivot_user_guide.docx). Research Development has curated several searches in broad areas of interest, available in the Pivot dashboard for all Northeastern users under “Curated Opps.” These curated searches can be used as a starting point and further refined based on the interests of the user. Additionally, a personal Northeastern Pivot Training Session can be accommodated upon request.aly.gamble@northeastern.edu for more information.
+### Search with Academic Analytics
+[Academic Analytics Faculty Insight](https://northeastern.sharepoint.com/sites/AcademicAnalyticsNU) is a search tool that enables users to find targeted funding opportunities, discover suggested honorific awards, and locate subject-matter experts at Northeastern and globally. Scholar profiles in Faculty Insight are populated with scholarly activity sourced from Academic Analytics data. Users can update and curate pre-populated data, browse funding by keyword, and obtain personalized funding opportunity reports.
+### Foundation Directory Online
+This is an online funding research tool developed by the Foundation Center. Researchers may search for private foundations using this website. The Library now has unlimited IP access for this research tool. For access, click [here](https://link.ezproxy.neu.edu/login?url=https://fconline.foundationcenter.org/ipl.php). The Library also has University-wide access to the Grants for Individuals database from Candid at this [link](https://link.ezproxy.neu.edu/login?url=https://grantstoindividuals.org). Researchers can also contact [Northeastern’s Office of Corporate and Foundation Advancement](http://www.northeastern.edu/empower/giving/corporations-and-foundations) for specialized searches.
+Contact Research Development:
+177 Huntington Ave | Boston MA, 02115
+resdev@northeastern.edu
+limitedsubmissions@northeastern.edu

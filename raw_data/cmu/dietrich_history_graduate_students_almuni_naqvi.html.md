@@ -1,0 +1,12 @@
+[Dietrich College of Humanities and Social Sciences](https://www.cmu.edu/dietrich/) › [Department of History](https://www.cmu.edu/dietrich/history/index.html) › [ Graduate ](https://www.cmu.edu/dietrich/history/graduate/index.html) › [ Graduate Students ](https://www.cmu.edu/dietrich/history/graduate/students/index.html) › [ Alumni ](https://www.cmu.edu/dietrich/history/graduate/students/almuni/index.html) › Kaaz Naqvi, Ph.D., 2015 
+#  Kaaz Naqvi, Ph.D., 2015 
+October 21, 2018
+I am currently a Senior Lecturer of American Studies at the University of Texas at Dallas. After receiving my doctorate from CMU's history department in 2015, I entered the world of secondary education for three years, teaching history at prep schools in Minneapolis and Dallas. At CMU, I got my first opportunity to encounter classroom teaching, as a TA in World History. Having the opportunity to TA, Head TA, and eventually teach my own stand alone courses, helped me hone my teaching skills in a manner that would serve me well in my career in both prep schools and in the university setting.
+As a scholar of modern African American and immigration history, my current book project, titled, "Chicago Muslims and the Transformation of American Islam" (Lexington Books, 2019), originates from my dissertation at CMU. Through a case study of Chicago's Muslim communities, the book traces the work of African American and immigrant Muslims, in the wake of the 1965 Hart-Celler Act, to build a unified Islamic community in the city and nation as a whole. The coursework and mentorship I received at CMU helped me refine my academic interests and lay a theoretical foundation for the research I subsequently undertook. When I look at my work, the intellectual legacies of the members of my committee are clearly visible in my scholarship. To this day, I seek out continued guidance and advice from the faculty for various parts of my scholarship and teaching.
+Beyond career objectives, I look back fondly at my time at CMU as some of the best years of my life. Taking classes with a small cohort of peers, I was able to develop lifelong friendships while growing intellectually into the person that I am today. The personal and caring atmosphere of the CMU grad program made my experience one that I will forever cherish.
+[Meet Other Alums](https://www.cmu.edu/dietrich/history/graduate/students/almuni/index.html)
+# At a Glance...
+##### Graduation Year:
+Ph.D. 2015
+##### Current Occupation:
+Senior Lecturer of American Studies at the University of Texas at Dallas

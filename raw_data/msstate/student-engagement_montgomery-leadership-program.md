@@ -1,0 +1,5 @@
+#  Montgomery Leadership Program 
+# Montgomery Leadership Program 
+Established in 2006, MLP is a selection-based cohort experience for juniors and seniors. The program is a multi-semester immersive leadership experience that culminates with a capstone project. The Montgomery Leadership Program (MLP) is part of the Office of Student Leadership and Community Engagement, where students are invited and encouraged to take service and leadership to new heights and challenges. With MLP, Mississippi State recognizes the legacy of G.V. "Sonny" Montgomery, a 1943 Mississippi State alumnus and a 15-term U.S. congressman who authored the Montgomery G.I. Bill. A former "Mr. MSU," he embodied the qualities of leadership, statesmanship, and public service that influenced generations of Americans.
+MLP works with a select group of students who commit themselves to develop leadership skills that transform lives - both theirs and others. Participants undergo a multi-semester study of leadership and apply their knowledge through service-learning projects throughout the community.
+[ More on MLP](https://www.slce.msstate.edu/student-leadership/mlp)
