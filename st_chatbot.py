@@ -26,7 +26,7 @@ def chatbot_ui():
     UNI_DICT = {
         "msstate": "Mississippi State University",
         "neu": "Northeastern University",
-        "amherst": "UMass Amherst",
+        "cmu": "Carnegie Mellon University",
     }
 
     def format_func(option):
